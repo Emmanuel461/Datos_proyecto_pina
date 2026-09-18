@@ -1,0 +1,541 @@
+tabla,finca_id,tratamiento,lote,parcela,repeticion,id_lab,id_usuario,xls_origen,variable,valor,unidad
+densidad_porosidad,1,Pina,1,Pina_1,1,RN-26-00425,Pina 1-1,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.77,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,2,RN-26-00426,Pina 1-2,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.83,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,3,RN-26-00427,Pina 1-3,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.76,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,4,RN-26-00428,Pina 1-4,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.74,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,5,RN-26-00429,Pina 1-5,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.82,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,6,RN-26-00430,Pina 1-6,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.75,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,7,RN-26-00431,Pina 1-7,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.68,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,8,RN-26-00432,Pina 1-8,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.76,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,1,RN-26-00433,BOSQUE 1-1,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.95,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,2,RN-26-00434,BOSQUE 1-2,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.79,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,3,RN-26-00435,BOSQUE 1-3,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.84,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,4,RN-26-00436,BOSQUE 1-4,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.92,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,5,RN-26-00437,BOSQUE 1-5,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.74,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,6,RN-26-00438,BOSQUE 1-6,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.82,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,7,RN-26-00439,BOSQUE 1-7,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.92,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,8,RN-26-00440,BOSQUE 1-8,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_aparente_g_cm_3,0.87,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,1,RN-26-00899,Pina 2 ALONSO CHACON R 1,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.97,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,2,RN-26-00900,Pina 2 ALONSO CHACON R 2,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.96,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,3,RN-26-00901,Pina 2 ALONSO CHACON R 3,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.95,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,4,RN-26-00902,Pina 2 ALONSO CHACON R 4,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.96,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,5,RN-26-00903,Pina 2 ALONSO CHACON R 5,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.95,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,6,RN-26-00904,Pina 2 ALONSO CHACON R 6,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.94,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,7,RN-26-00905,Pina 2 ALONSO CHACON R 7,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.87,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,8,RN-26-00906,Pina 2 ALONSO CHACON R 8,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.91,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,1,RN-26-00907,Pina 3 MISAEL ROJAS R 1,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.9,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,2,RN-26-00908,Pina 3 MISAEL ROJAS R 2,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.88,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,3,RN-26-00909,Pina 3 MISAEL ROJAS R 3,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.9,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,4,RN-26-00910,Pina 3 MISAEL ROJAS R 4,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.84,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,5,RN-26-00911,Pina 3 MISAEL ROJAS R 5,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.98,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,6,RN-26-00912,Pina 3 MISAEL ROJAS R 6,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.92,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,7,RN-26-00913,Pina 3 MISAEL ROJAS R 7,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.85,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,8,RN-26-00914,Pina 3 MISAEL ROJAS R 8,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.86,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,1,RN-26-00915,Pina 4 SERGIO ROJAS R 1,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.83,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,2,RN-26-00916,Pina 4 SERGIO ROJAS R 2,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.91,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,3,RN-26-00917,Pina 4 SERGIO ROJAS R 3,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,1.0,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,4,RN-26-00918,Pina 4 SERGIO ROJAS R 4,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,1.0,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,5,RN-26-00919,Pina 4 SERGIO ROJAS R 5,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.86,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,6,RN-26-00920,Pina 4 SERGIO ROJAS R 6,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.9,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,7,RN-26-00921,Pina 4 SERGIO ROJAS R 7,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.95,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,8,RN-26-00922,Pina 4 SERGIO ROJAS R 8,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_aparente_g_cm_3,0.96,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,1,RN-26-00923,Pina 5 SERGIO ROJAS R 1,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.92,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,2,RN-26-00924,Pina 5 SERGIO ROJAS R 2,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.94,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,3,RN-26-00925,Pina 5 SERGIO ROJAS R 3,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.85,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,4,RN-26-00926,Pina 5 SERGIO ROJAS R 4,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.86,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,5,RN-26-00927,Pina 5 SERGIO ROJAS R 5,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.82,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,6,RN-26-00928,Pina 5 SERGIO ROJAS R 6,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.84,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,7,RN-26-00929,Pina 5 SERGIO ROJAS R 7,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.89,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,8,RN-26-00930,Pina 5 SERGIO ROJAS R 8,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.88,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,1,RN-26-00931,Pina 6 MARVIN ZAMORA R 1,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.96,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,2,RN-26-00932,Pina 6 MARVIN ZAMORA R 2,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,1.1,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,3,RN-26-00933,Pina 6 MARVIN ZAMORA R 3,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.9,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,4,RN-26-00934,Pina 6 MARVIN ZAMORA R 4,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,1.0,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,5,RN-26-00935,Pina 6 MARVIN ZAMORA R 5,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,1.08,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,6,RN-26-00936,Pina 6 MARVIN ZAMORA R 6,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.9,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,7,RN-26-00937,Pina 6 MARVIN ZAMORA R 7,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.89,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,8,RN-26-00938,Pina 6 MARVIN ZAMORA R 8,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.9,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,1,RN-26-00939,Pina 7 ADRIAN RODRIGRUEZ R 1,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.92,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,2,RN-26-00940,Pina 7 ADRIAN RODRIGRUEZ R 2,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,1.06,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,3,RN-26-00941,Pina 7 ADRIAN RODRIGRUEZ R 3,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,1.03,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,4,RN-26-00942,Pina 7 ADRIAN RODRIGRUEZ R 4,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,1.02,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,5,RN-26-00943,Pina 7 ADRIAN RODRIGRUEZ R 5,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.97,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,6,RN-26-00944,Pina 7 ADRIAN RODRIGRUEZ R 6,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.93,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,7,RN-26-00945,Pina 7 ADRIAN RODRIGRUEZ R 7,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,1.01,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,8,RN-26-00946,Pina 7 ADRIAN RODRIGRUEZ R 8,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_aparente_g_cm_3,0.98,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,1,RN-26-00947,Pina 8 SENEN MURILLO R 1,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.83,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,2,RN-26-00948,Pina 8 SENEN MURILLO R 2,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.86,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,3,RN-26-00949,Pina 8 SENEN MURILLO R 3,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.87,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,4,RN-26-00950,Pina 8 SENEN MURILLO R 4,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.86,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,5,RN-26-00951,Pina 8 SENEN MURILLO R 5,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.94,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,6,RN-26-00952,Pina 8 SENEN MURILLO R 6,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.88,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,7,RN-26-00953,Pina 8 SENEN MURILLO R 7,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.91,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,8,RN-26-00954,Pina 8 SENEN MURILLO R 8,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.81,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,1,RN-26-00971,BOSQUE 4 SERGIO ROJAS R 1,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_aparente_g_cm_3,0.68,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,2,RN-26-00972,BOSQUE 4 SERGIO ROJAS R 2,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_aparente_g_cm_3,0.76,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,3,RN-26-00973,BOSQUE 4 SERGIO ROJAS R 3,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_aparente_g_cm_3,0.83,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,4,RN-26-00974,BOSQUE 4 SERGIO ROJAS R 4,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_aparente_g_cm_3,0.62,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,5,RN-26-00975,BOSQUE 4 SERGIO ROJAS R 5,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_aparente_g_cm_3,0.8,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,6,RN-26-00976,BOSQUE 4 SERGIO ROJAS R 6,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_aparente_g_cm_3,0.66,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,7,RN-26-00977,BOSQUE 4 SERGIO ROJAS R 7,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_aparente_g_cm_3,0.79,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,8,RN-26-00978,BOSQUE 4 SERGIO ROJAS R 8,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_aparente_g_cm_3,0.71,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,1,RN-26-00963,BOSQUE 3 SERGIO ROJAS R 1,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.79,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,2,RN-26-00964,BOSQUE 3 SERGIO ROJAS R 2,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.74,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,3,RN-26-00965,BOSQUE 3 SERGIO ROJAS R 3,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.91,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,4,RN-26-00966,BOSQUE 3 SERGIO ROJAS R 4,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.82,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,5,RN-26-00967,BOSQUE 3 SERGIO ROJAS R 5,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.95,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,6,RN-26-00968,BOSQUE 3 SERGIO ROJAS R 6,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.77,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,7,RN-26-00969,BOSQUE 3 SERGIO ROJAS R 7,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.87,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,8,RN-26-00970,BOSQUE 3 SERGIO ROJAS R 8,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.85,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,1,RN-26-00955,BOSQUE 2 MISAEL ROJAS R 1,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.56,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,2,RN-26-00956,BOSQUE 2 MISAEL ROJAS R 2,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.73,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,3,RN-26-00957,BOSQUE 2 MISAEL ROJAS R 3,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.71,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,4,RN-26-00958,BOSQUE 2 MISAEL ROJAS R 4,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.73,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,5,RN-26-00959,BOSQUE 2 MISAEL ROJAS R 5,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.8,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,6,RN-26-00960,BOSQUE 2 MISAEL ROJAS R 6,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.77,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,7,RN-26-00961,BOSQUE 2 MISAEL ROJAS R 7,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.8,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,8,RN-26-00962,BOSQUE 2 MISAEL ROJAS R 8,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_aparente_g_cm_3,0.8,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,1,RN-26-00425,Pina 1-1,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.58,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,2,RN-26-00426,Pina 1-2,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.56,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,3,RN-26-00427,Pina 1-3,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.67,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,4,RN-26-00428,Pina 1-4,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.58,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,5,RN-26-00429,Pina 1-5,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.55,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,6,RN-26-00430,Pina 1-6,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.52,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,7,RN-26-00431,Pina 1-7,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.55,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,8,RN-26-00432,Pina 1-8,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.62,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,1,RN-26-00433,BOSQUE 1-1,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.69,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,2,RN-26-00434,BOSQUE 1-2,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.74,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,3,RN-26-00435,BOSQUE 1-3,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.69,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,4,RN-26-00436,BOSQUE 1-4,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.73,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,5,RN-26-00437,BOSQUE 1-5,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.7,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,6,RN-26-00438,BOSQUE 1-6,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.73,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,7,RN-26-00439,BOSQUE 1-7,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.65,g/cm³
+densidad_porosidad,1,Bosque,1,Bosque_1,8,RN-26-00440,BOSQUE 1-8,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,densidad_particulas_g_cm_3,2.73,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,1,RN-26-00899,Pina 2 ALONSO CHACON R 1,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.47,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,2,RN-26-00900,Pina 2 ALONSO CHACON R 2,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.51,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,3,RN-26-00901,Pina 2 ALONSO CHACON R 3,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.53,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,4,RN-26-00902,Pina 2 ALONSO CHACON R 4,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.48,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,5,RN-26-00903,Pina 2 ALONSO CHACON R 5,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.51,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,6,RN-26-00904,Pina 2 ALONSO CHACON R 6,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.49,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,7,RN-26-00905,Pina 2 ALONSO CHACON R 7,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.53,g/cm³
+densidad_porosidad,2,Pina,2,Pina_2,8,RN-26-00906,Pina 2 ALONSO CHACON R 8,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.54,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,1,RN-26-00907,Pina 3 MISAEL ROJAS R 1,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.57,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,2,RN-26-00908,Pina 3 MISAEL ROJAS R 2,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.56,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,3,RN-26-00909,Pina 3 MISAEL ROJAS R 3,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.57,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,4,RN-26-00910,Pina 3 MISAEL ROJAS R 4,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.54,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,5,RN-26-00911,Pina 3 MISAEL ROJAS R 5,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.59,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,6,RN-26-00912,Pina 3 MISAEL ROJAS R 6,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.57,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,7,RN-26-00913,Pina 3 MISAEL ROJAS R 7,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.58,g/cm³
+densidad_porosidad,3,Pina,3,Pina_3,8,RN-26-00914,Pina 3 MISAEL ROJAS R 8,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.55,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,1,RN-26-00915,Pina 4 SERGIO ROJAS R 1,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.6,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,2,RN-26-00916,Pina 4 SERGIO ROJAS R 2,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.49,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,3,RN-26-00917,Pina 4 SERGIO ROJAS R 3,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.45,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,4,RN-26-00918,Pina 4 SERGIO ROJAS R 4,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.47,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,5,RN-26-00919,Pina 4 SERGIO ROJAS R 5,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.49,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,6,RN-26-00920,Pina 4 SERGIO ROJAS R 6,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.47,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,7,RN-26-00921,Pina 4 SERGIO ROJAS R 7,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.49,g/cm³
+densidad_porosidad,4,Pina,4,Pina_4,8,RN-26-00922,Pina 4 SERGIO ROJAS R 8,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,densidad_particulas_g_cm_3,2.47,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,1,RN-26-00923,Pina 5 SERGIO ROJAS R 1,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.6,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,2,RN-26-00924,Pina 5 SERGIO ROJAS R 2,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.61,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,3,RN-26-00925,Pina 5 SERGIO ROJAS R 3,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.62,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,4,RN-26-00926,Pina 5 SERGIO ROJAS R 4,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.62,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,5,RN-26-00927,Pina 5 SERGIO ROJAS R 5,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.56,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,6,RN-26-00928,Pina 5 SERGIO ROJAS R 6,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.62,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,7,RN-26-00929,Pina 5 SERGIO ROJAS R 7,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.6,g/cm³
+densidad_porosidad,5,Pina,5,Pina_5,8,RN-26-00930,Pina 5 SERGIO ROJAS R 8,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.62,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,1,RN-26-00931,Pina 6 MARVIN ZAMORA R 1,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.39,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,2,RN-26-00932,Pina 6 MARVIN ZAMORA R 2,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.43,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,3,RN-26-00933,Pina 6 MARVIN ZAMORA R 3,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.44,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,4,RN-26-00934,Pina 6 MARVIN ZAMORA R 4,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.45,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,5,RN-26-00935,Pina 6 MARVIN ZAMORA R 5,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.39,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,6,RN-26-00936,Pina 6 MARVIN ZAMORA R 6,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.44,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,7,RN-26-00937,Pina 6 MARVIN ZAMORA R 7,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.44,g/cm³
+densidad_porosidad,6,Pina,6,Pina_6,8,RN-26-00938,Pina 6 MARVIN ZAMORA R 8,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.45,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,1,RN-26-00939,Pina 7 ADRIAN RODRIGRUEZ R 1,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.44,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,2,RN-26-00940,Pina 7 ADRIAN RODRIGRUEZ R 2,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.49,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,3,RN-26-00941,Pina 7 ADRIAN RODRIGRUEZ R 3,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.49,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,4,RN-26-00942,Pina 7 ADRIAN RODRIGRUEZ R 4,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.5,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,5,RN-26-00943,Pina 7 ADRIAN RODRIGRUEZ R 5,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.45,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,6,RN-26-00944,Pina 7 ADRIAN RODRIGRUEZ R 6,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.5,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,7,RN-26-00945,Pina 7 ADRIAN RODRIGRUEZ R 7,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.49,g/cm³
+densidad_porosidad,7,Pina,7,Pina_7,8,RN-26-00946,Pina 7 ADRIAN RODRIGRUEZ R 8,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,densidad_particulas_g_cm_3,2.48,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,1,RN-26-00947,Pina 8 SENEN MURILLO R 1,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.44,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,2,RN-26-00948,Pina 8 SENEN MURILLO R 2,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.54,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,3,RN-26-00949,Pina 8 SENEN MURILLO R 3,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.61,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,4,RN-26-00950,Pina 8 SENEN MURILLO R 4,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.56,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,5,RN-26-00951,Pina 8 SENEN MURILLO R 5,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.49,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,6,RN-26-00952,Pina 8 SENEN MURILLO R 6,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.62,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,7,RN-26-00953,Pina 8 SENEN MURILLO R 7,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.48,g/cm³
+densidad_porosidad,8,Pina,8,Pina_8,8,RN-26-00954,Pina 8 SENEN MURILLO R 8,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.59,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,1,RN-26-00971,BOSQUE 4 SERGIO ROJAS R 1,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_particulas_g_cm_3,2.45,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,2,RN-26-00972,BOSQUE 4 SERGIO ROJAS R 2,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_particulas_g_cm_3,2.47,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,3,RN-26-00973,BOSQUE 4 SERGIO ROJAS R 3,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_particulas_g_cm_3,2.53,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,4,RN-26-00974,BOSQUE 4 SERGIO ROJAS R 4,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_particulas_g_cm_3,2.36,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,5,RN-26-00975,BOSQUE 4 SERGIO ROJAS R 5,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_particulas_g_cm_3,2.45,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,6,RN-26-00976,BOSQUE 4 SERGIO ROJAS R 6,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_particulas_g_cm_3,2.45,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,7,RN-26-00977,BOSQUE 4 SERGIO ROJAS R 7,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_particulas_g_cm_3,2.51,g/cm³
+densidad_porosidad,5,Bosque,4,Bosque_4,8,RN-26-00978,BOSQUE 4 SERGIO ROJAS R 8,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,densidad_particulas_g_cm_3,2.53,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,1,RN-26-00963,BOSQUE 3 SERGIO ROJAS R 1,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.45,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,2,RN-26-00964,BOSQUE 3 SERGIO ROJAS R 2,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.4,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,3,RN-26-00965,BOSQUE 3 SERGIO ROJAS R 3,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.49,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,4,RN-26-00966,BOSQUE 3 SERGIO ROJAS R 4,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.49,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,5,RN-26-00967,BOSQUE 3 SERGIO ROJAS R 5,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.51,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,6,RN-26-00968,BOSQUE 3 SERGIO ROJAS R 6,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.35,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,7,RN-26-00969,BOSQUE 3 SERGIO ROJAS R 7,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.53,g/cm³
+densidad_porosidad,4,Bosque,3,Bosque_3,8,RN-26-00970,BOSQUE 3 SERGIO ROJAS R 8,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.53,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,1,RN-26-00955,BOSQUE 2 MISAEL ROJAS R 1,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.51,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,2,RN-26-00956,BOSQUE 2 MISAEL ROJAS R 2,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.47,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,3,RN-26-00957,BOSQUE 2 MISAEL ROJAS R 3,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.55,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,4,RN-26-00958,BOSQUE 2 MISAEL ROJAS R 4,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.37,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,5,RN-26-00959,BOSQUE 2 MISAEL ROJAS R 5,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.57,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,6,RN-26-00960,BOSQUE 2 MISAEL ROJAS R 6,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.48,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,7,RN-26-00961,BOSQUE 2 MISAEL ROJAS R 7,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.54,g/cm³
+densidad_porosidad,3,Bosque,2,Bosque_2,8,RN-26-00962,BOSQUE 2 MISAEL ROJAS R 8,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,densidad_particulas_g_cm_3,2.55,g/cm³
+densidad_porosidad,1,Pina,1,Pina_1,1,RN-26-00425,Pina 1-1,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,70.15503875968993,%
+densidad_porosidad,1,Pina,1,Pina_1,2,RN-26-00426,Pina 1-2,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,67.578125,%
+densidad_porosidad,1,Pina,1,Pina_1,3,RN-26-00427,Pina 1-3,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,71.53558052434457,%
+densidad_porosidad,1,Pina,1,Pina_1,4,RN-26-00428,Pina 1-4,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,71.31782945736434,%
+densidad_porosidad,1,Pina,1,Pina_1,5,RN-26-00429,Pina 1-5,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,67.84313725490196,%
+densidad_porosidad,1,Pina,1,Pina_1,6,RN-26-00430,Pina 1-6,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,70.23809523809523,%
+densidad_porosidad,1,Pina,1,Pina_1,7,RN-26-00431,Pina 1-7,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,73.33333333333333,%
+densidad_porosidad,1,Pina,1,Pina_1,8,RN-26-00432,Pina 1-8,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,70.99236641221374,%
+densidad_porosidad,1,Bosque,1,Bosque_1,1,RN-26-00433,BOSQUE 1-1,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,64.68401486988849,%
+densidad_porosidad,1,Bosque,1,Bosque_1,2,RN-26-00434,BOSQUE 1-2,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,71.16788321167884,%
+densidad_porosidad,1,Bosque,1,Bosque_1,3,RN-26-00435,BOSQUE 1-3,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,68.77323420074349,%
+densidad_porosidad,1,Bosque,1,Bosque_1,4,RN-26-00436,BOSQUE 1-4,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,66.30036630036629,%
+densidad_porosidad,1,Bosque,1,Bosque_1,5,RN-26-00437,BOSQUE 1-5,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,72.5925925925926,%
+densidad_porosidad,1,Bosque,1,Bosque_1,6,RN-26-00438,BOSQUE 1-6,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,69.96336996336996,%
+densidad_porosidad,1,Bosque,1,Bosque_1,7,RN-26-00439,BOSQUE 1-7,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,65.28301886792453,%
+densidad_porosidad,1,Bosque,1,Bosque_1,8,RN-26-00440,BOSQUE 1-8,98535 PROYECTO VI-813-C6469 CIPROC RN425-440,porosidad,68.13186813186813,%
+densidad_porosidad,2,Pina,2,Pina_2,1,RN-26-00899,Pina 2 ALONSO CHACON R 1,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,60.72874493927126,%
+densidad_porosidad,2,Pina,2,Pina_2,2,RN-26-00900,Pina 2 ALONSO CHACON R 2,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,61.75298804780876,%
+densidad_porosidad,2,Pina,2,Pina_2,3,RN-26-00901,Pina 2 ALONSO CHACON R 3,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,62.450592885375485,%
+densidad_porosidad,2,Pina,2,Pina_2,4,RN-26-00902,Pina 2 ALONSO CHACON R 4,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,61.29032258064516,%
+densidad_porosidad,2,Pina,2,Pina_2,5,RN-26-00903,Pina 2 ALONSO CHACON R 5,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,62.15139442231076,%
+densidad_porosidad,2,Pina,2,Pina_2,6,RN-26-00904,Pina 2 ALONSO CHACON R 6,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,62.24899598393575,%
+densidad_porosidad,2,Pina,2,Pina_2,7,RN-26-00905,Pina 2 ALONSO CHACON R 7,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,65.61264822134387,%
+densidad_porosidad,2,Pina,2,Pina_2,8,RN-26-00906,Pina 2 ALONSO CHACON R 8,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,64.1732283464567,%
+densidad_porosidad,3,Pina,3,Pina_3,1,RN-26-00907,Pina 3 MISAEL ROJAS R 1,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,64.98054474708171,%
+densidad_porosidad,3,Pina,3,Pina_3,2,RN-26-00908,Pina 3 MISAEL ROJAS R 2,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,65.625,%
+densidad_porosidad,3,Pina,3,Pina_3,3,RN-26-00909,Pina 3 MISAEL ROJAS R 3,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,64.98054474708171,%
+densidad_porosidad,3,Pina,3,Pina_3,4,RN-26-00910,Pina 3 MISAEL ROJAS R 4,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,66.92913385826772,%
+densidad_porosidad,3,Pina,3,Pina_3,5,RN-26-00911,Pina 3 MISAEL ROJAS R 5,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,62.16216216216216,%
+densidad_porosidad,3,Pina,3,Pina_3,6,RN-26-00912,Pina 3 MISAEL ROJAS R 6,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,64.2023346303502,%
+densidad_porosidad,3,Pina,3,Pina_3,7,RN-26-00913,Pina 3 MISAEL ROJAS R 7,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,67.05426356589147,%
+densidad_porosidad,3,Pina,3,Pina_3,8,RN-26-00914,Pina 3 MISAEL ROJAS R 8,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,66.27450980392156,%
+densidad_porosidad,4,Pina,4,Pina_4,1,RN-26-00915,Pina 4 SERGIO ROJAS R 1,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,68.07692307692308,%
+densidad_porosidad,4,Pina,4,Pina_4,2,RN-26-00916,Pina 4 SERGIO ROJAS R 2,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,63.45381526104418,%
+densidad_porosidad,4,Pina,4,Pina_4,3,RN-26-00917,Pina 4 SERGIO ROJAS R 3,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,59.18367346938776,%
+densidad_porosidad,4,Pina,4,Pina_4,4,RN-26-00918,Pina 4 SERGIO ROJAS R 4,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,59.51417004048582,%
+densidad_porosidad,4,Pina,4,Pina_4,5,RN-26-00919,Pina 4 SERGIO ROJAS R 5,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,65.46184738955823,%
+densidad_porosidad,4,Pina,4,Pina_4,6,RN-26-00920,Pina 4 SERGIO ROJAS R 6,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,63.56275303643725,%
+densidad_porosidad,4,Pina,4,Pina_4,7,RN-26-00921,Pina 4 SERGIO ROJAS R 7,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,61.84738955823293,%
+densidad_porosidad,4,Pina,4,Pina_4,8,RN-26-00922,Pina 4 SERGIO ROJAS R 8,99445 PROYECTO VI-813-C6469 CIPROC RN899-922,porosidad,61.13360323886641,%
+densidad_porosidad,5,Pina,5,Pina_5,1,RN-26-00923,Pina 5 SERGIO ROJAS R 1,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,64.61538461538461,%
+densidad_porosidad,5,Pina,5,Pina_5,2,RN-26-00924,Pina 5 SERGIO ROJAS R 2,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,63.98467432950192,%
+densidad_porosidad,5,Pina,5,Pina_5,3,RN-26-00925,Pina 5 SERGIO ROJAS R 3,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,67.55725190839695,%
+densidad_porosidad,5,Pina,5,Pina_5,4,RN-26-00926,Pina 5 SERGIO ROJAS R 4,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,67.17557251908397,%
+densidad_porosidad,5,Pina,5,Pina_5,5,RN-26-00927,Pina 5 SERGIO ROJAS R 5,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,67.96875,%
+densidad_porosidad,5,Pina,5,Pina_5,6,RN-26-00928,Pina 5 SERGIO ROJAS R 6,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,67.93893129770993,%
+densidad_porosidad,5,Pina,5,Pina_5,7,RN-26-00929,Pina 5 SERGIO ROJAS R 7,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,65.76923076923077,%
+densidad_porosidad,5,Pina,5,Pina_5,8,RN-26-00930,Pina 5 SERGIO ROJAS R 8,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,66.41221374045801,%
+densidad_porosidad,6,Pina,6,Pina_6,1,RN-26-00931,Pina 6 MARVIN ZAMORA R 1,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,59.83263598326361,%
+densidad_porosidad,6,Pina,6,Pina_6,2,RN-26-00932,Pina 6 MARVIN ZAMORA R 2,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,54.73251028806585,%
+densidad_porosidad,6,Pina,6,Pina_6,3,RN-26-00933,Pina 6 MARVIN ZAMORA R 3,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,63.11475409836065,%
+densidad_porosidad,6,Pina,6,Pina_6,4,RN-26-00934,Pina 6 MARVIN ZAMORA R 4,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,59.18367346938776,%
+densidad_porosidad,6,Pina,6,Pina_6,5,RN-26-00935,Pina 6 MARVIN ZAMORA R 5,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,54.81171548117154,%
+densidad_porosidad,6,Pina,6,Pina_6,6,RN-26-00936,Pina 6 MARVIN ZAMORA R 6,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,63.11475409836065,%
+densidad_porosidad,6,Pina,6,Pina_6,7,RN-26-00937,Pina 6 MARVIN ZAMORA R 7,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,63.52459016393443,%
+densidad_porosidad,6,Pina,6,Pina_6,8,RN-26-00938,Pina 6 MARVIN ZAMORA R 8,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,63.26530612244898,%
+densidad_porosidad,7,Pina,7,Pina_7,1,RN-26-00939,Pina 7 ADRIAN RODRIGRUEZ R 1,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,62.29508196721312,%
+densidad_porosidad,7,Pina,7,Pina_7,2,RN-26-00940,Pina 7 ADRIAN RODRIGRUEZ R 2,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,57.42971887550201,%
+densidad_porosidad,7,Pina,7,Pina_7,3,RN-26-00941,Pina 7 ADRIAN RODRIGRUEZ R 3,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,58.63453815261044,%
+densidad_porosidad,7,Pina,7,Pina_7,4,RN-26-00942,Pina 7 ADRIAN RODRIGRUEZ R 4,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,59.2,%
+densidad_porosidad,7,Pina,7,Pina_7,5,RN-26-00943,Pina 7 ADRIAN RODRIGRUEZ R 5,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,60.40816326530612,%
+densidad_porosidad,7,Pina,7,Pina_7,6,RN-26-00944,Pina 7 ADRIAN RODRIGRUEZ R 6,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,62.8,%
+densidad_porosidad,7,Pina,7,Pina_7,7,RN-26-00945,Pina 7 ADRIAN RODRIGRUEZ R 7,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,59.43775100401607,%
+densidad_porosidad,7,Pina,7,Pina_7,8,RN-26-00946,Pina 7 ADRIAN RODRIGRUEZ R 8,99446 PROYECTO VI-813-C6469 CIPROC RN923-946,porosidad,60.483870967741936,%
+densidad_porosidad,8,Pina,8,Pina_8,1,RN-26-00947,Pina 8 SENEN MURILLO R 1,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,65.98360655737704,%
+densidad_porosidad,8,Pina,8,Pina_8,2,RN-26-00948,Pina 8 SENEN MURILLO R 2,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,66.14173228346456,%
+densidad_porosidad,8,Pina,8,Pina_8,3,RN-26-00949,Pina 8 SENEN MURILLO R 3,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,66.66666666666666,%
+densidad_porosidad,8,Pina,8,Pina_8,4,RN-26-00950,Pina 8 SENEN MURILLO R 4,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,66.40625,%
+densidad_porosidad,8,Pina,8,Pina_8,5,RN-26-00951,Pina 8 SENEN MURILLO R 5,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,62.24899598393575,%
+densidad_porosidad,8,Pina,8,Pina_8,6,RN-26-00952,Pina 8 SENEN MURILLO R 6,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,66.41221374045801,%
+densidad_porosidad,8,Pina,8,Pina_8,7,RN-26-00953,Pina 8 SENEN MURILLO R 7,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,63.30645161290322,%
+densidad_porosidad,8,Pina,8,Pina_8,8,RN-26-00954,Pina 8 SENEN MURILLO R 8,Pina_Finca8_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,68.72586872586872,%
+densidad_porosidad,5,Bosque,4,Bosque_4,1,RN-26-00971,BOSQUE 4 SERGIO ROJAS R 1,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,porosidad,72.24489795918367,%
+densidad_porosidad,5,Bosque,4,Bosque_4,2,RN-26-00972,BOSQUE 4 SERGIO ROJAS R 2,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,porosidad,69.23076923076923,%
+densidad_porosidad,5,Bosque,4,Bosque_4,3,RN-26-00973,BOSQUE 4 SERGIO ROJAS R 3,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,porosidad,67.19367588932806,%
+densidad_porosidad,5,Bosque,4,Bosque_4,4,RN-26-00974,BOSQUE 4 SERGIO ROJAS R 4,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,porosidad,73.72881355932203,%
+densidad_porosidad,5,Bosque,4,Bosque_4,5,RN-26-00975,BOSQUE 4 SERGIO ROJAS R 5,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,porosidad,67.34693877551021,%
+densidad_porosidad,5,Bosque,4,Bosque_4,6,RN-26-00976,BOSQUE 4 SERGIO ROJAS R 6,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,porosidad,73.06122448979592,%
+densidad_porosidad,5,Bosque,4,Bosque_4,7,RN-26-00977,BOSQUE 4 SERGIO ROJAS R 7,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,porosidad,68.52589641434263,%
+densidad_porosidad,5,Bosque,4,Bosque_4,8,RN-26-00978,BOSQUE 4 SERGIO ROJAS R 8,Pina_Bosque4_99448 PROYECTO VI-813-C6469 CIPROC RN971-978,porosidad,71.93675889328064,%
+densidad_porosidad,4,Bosque,3,Bosque_3,1,RN-26-00963,BOSQUE 3 SERGIO ROJAS R 1,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,67.75510204081633,%
+densidad_porosidad,4,Bosque,3,Bosque_3,2,RN-26-00964,BOSQUE 3 SERGIO ROJAS R 2,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,69.16666666666667,%
+densidad_porosidad,4,Bosque,3,Bosque_3,3,RN-26-00965,BOSQUE 3 SERGIO ROJAS R 3,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,63.45381526104418,%
+densidad_porosidad,4,Bosque,3,Bosque_3,4,RN-26-00966,BOSQUE 3 SERGIO ROJAS R 4,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,67.0682730923695,%
+densidad_porosidad,4,Bosque,3,Bosque_3,5,RN-26-00967,BOSQUE 3 SERGIO ROJAS R 5,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,62.15139442231076,%
+densidad_porosidad,4,Bosque,3,Bosque_3,6,RN-26-00968,BOSQUE 3 SERGIO ROJAS R 6,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,67.2340425531915,%
+densidad_porosidad,4,Bosque,3,Bosque_3,7,RN-26-00969,BOSQUE 3 SERGIO ROJAS R 7,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,65.61264822134387,%
+densidad_porosidad,4,Bosque,3,Bosque_3,8,RN-26-00970,BOSQUE 3 SERGIO ROJAS R 8,Pina_Bosque3_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,66.40316205533597,%
+densidad_porosidad,3,Bosque,2,Bosque_2,1,RN-26-00955,BOSQUE 2 MISAEL ROJAS R 1,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,77.68924302788844,%
+densidad_porosidad,3,Bosque,2,Bosque_2,2,RN-26-00956,BOSQUE 2 MISAEL ROJAS R 2,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,70.44534412955466,%
+densidad_porosidad,3,Bosque,2,Bosque_2,3,RN-26-00957,BOSQUE 2 MISAEL ROJAS R 3,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,72.15686274509804,%
+densidad_porosidad,3,Bosque,2,Bosque_2,4,RN-26-00958,BOSQUE 2 MISAEL ROJAS R 4,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,69.19831223628692,%
+densidad_porosidad,3,Bosque,2,Bosque_2,5,RN-26-00959,BOSQUE 2 MISAEL ROJAS R 5,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,68.8715953307393,%
+densidad_porosidad,3,Bosque,2,Bosque_2,6,RN-26-00960,BOSQUE 2 MISAEL ROJAS R 6,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,68.9516129032258,%
+densidad_porosidad,3,Bosque,2,Bosque_2,7,RN-26-00961,BOSQUE 2 MISAEL ROJAS R 7,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,68.50393700787401,%
+densidad_porosidad,3,Bosque,2,Bosque_2,8,RN-26-00962,BOSQUE 2 MISAEL ROJAS R 8,Pina_Bosque2_99447 PROYECTO VI-813-C6469 CIPROC RN947-970,porosidad,68.62745098039215,%
+retencion_humedad,1,Pina,1,Pina_1,1,RN-26-00863,Pina 1 VICTOR TREJOS R1,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,humedad_gravimetrica_0_33_bar,39.22,%
+retencion_humedad,1,Pina,1,Pina_1,2,RN-26-00864,Pina 1 VICTOR TREJOS R2,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,humedad_gravimetrica_0_33_bar,43.26,%
+retencion_humedad,1,Pina,1,Pina_1,3,RN-26-00865,Pina 1 VICTOR TREJOS R3,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,humedad_gravimetrica_0_33_bar,41.16,%
+retencion_humedad,1,Bosque,1,Bosque_1,1,RN-26-00866,BOSQUE 1 - R1,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,humedad_gravimetrica_0_33_bar,62.37,%
+retencion_humedad,1,Bosque,1,Bosque_1,2,RN-26-00867,BOSQUE 1 - R2,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,humedad_gravimetrica_0_33_bar,60.37,%
+retencion_humedad,1,Bosque,1,Bosque_1,3,RN-26-00868,BOSQUE 1 - R3,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,humedad_gravimetrica_0_33_bar,59.54,%
+retencion_humedad,2,Pina,2,Pina_2,1,RN-26-00869,Pina 2 ALONSO CHACON R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,40.42,%
+retencion_humedad,2,Pina,2,Pina_2,2,RN-26-00870,Pina 2 ALONSO CHACON R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,40.13,%
+retencion_humedad,2,Pina,2,Pina_2,3,RN-26-00871,Pina 2 ALONSO CHACON R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,44.79,%
+retencion_humedad,3,Pina,3,Pina_3,1,RN-26-00872,Pina 3 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,41.18,%
+retencion_humedad,3,Pina,3,Pina_3,2,RN-26-00873,Pina 3 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,40.86,%
+retencion_humedad,3,Pina,3,Pina_3,3,RN-26-00874,Pina 3 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,40.34,%
+retencion_humedad,4,Pina,4,Pina_4,1,RN-26-00875,Pina 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,36.86,%
+retencion_humedad,4,Pina,4,Pina_4,2,RN-26-00876,Pina 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,47.29,%
+retencion_humedad,4,Pina,4,Pina_4,3,RN-26-00877,Pina 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,34.75,%
+retencion_humedad,5,Pina,5,Pina_5,1,RN-26-00878,Pina 5 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,48.9,%
+retencion_humedad,5,Pina,5,Pina_5,2,RN-26-00879,Pina 5 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,45.52,%
+retencion_humedad,5,Pina,5,Pina_5,3,RN-26-00880,Pina 5 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,46.77,%
+retencion_humedad,6,Pina,6,Pina_6,1,RN-26-00881,Pina 6 MARVIN ZAMORA R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,41.13,%
+retencion_humedad,6,Pina,6,Pina_6,2,RN-26-00882,Pina 6 MARVIN ZAMORA R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,35.65,%
+retencion_humedad,6,Pina,6,Pina_6,3,RN-26-00883,Pina 6 MARVIN ZAMORA R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,38.08,%
+retencion_humedad,7,Pina,7,Pina_7,1,RN-26-00884,Pina 7 ADRIAN RODRIGRUEZ R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,40.39,%
+retencion_humedad,7,Pina,7,Pina_7,2,RN-26-00885,Pina 7 ADRIAN RODRIGRUEZ R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,46.21,%
+retencion_humedad,7,Pina,7,Pina_7,3,RN-26-00886,Pina 7 ADRIAN RODRIGRUEZ R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,42.05,%
+retencion_humedad,8,Pina,8,Pina_8,1,RN-26-00887,Pina 8 SENEN MURILLO R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,43.89,%
+retencion_humedad,8,Pina,8,Pina_8,2,RN-26-00888,Pina 8 SENEN MURILLO R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,44.02,%
+retencion_humedad,8,Pina,8,Pina_8,3,RN-26-00889,Pina 8 SENEN MURILLO R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,55.9,%
+retencion_humedad,3,Bosque,2,Bosque_2,1,RN-26-00890,BOSQUE 2 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,61.05,%
+retencion_humedad,3,Bosque,2,Bosque_2,2,RN-26-00891,BOSQUE 2 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,79.63,%
+retencion_humedad,3,Bosque,2,Bosque_2,3,RN-26-00892,BOSQUE 2 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,66.86,%
+retencion_humedad,4,Bosque,3,Bosque_3,1,RN-26-00893,BOSQUE 3 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,39.56,%
+retencion_humedad,4,Bosque,3,Bosque_3,2,RN-26-00894,BOSQUE 3 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,53.06,%
+retencion_humedad,4,Bosque,3,Bosque_3,3,RN-26-00895,BOSQUE 3 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,62.65,%
+retencion_humedad,5,Bosque,4,Bosque_4,1,RN-26-00896,BOSQUE 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,85.33,%
+retencion_humedad,5,Bosque,4,Bosque_4,2,RN-26-00897,BOSQUE 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,82.68,%
+retencion_humedad,5,Bosque,4,Bosque_4,3,RN-26-00898,BOSQUE 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_0_33_bar,69.33,%
+retencion_humedad,1,Pina,1,Pina_1,1,RN-26-00863,Pina 1 VICTOR TREJOS R1,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,humedad_gravimetrica_15_bar,25.47,%
+retencion_humedad,1,Pina,1,Pina_1,2,RN-26-00864,Pina 1 VICTOR TREJOS R2,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,humedad_gravimetrica_15_bar,26.64,%
+retencion_humedad,1,Pina,1,Pina_1,3,RN-26-00865,Pina 1 VICTOR TREJOS R3,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,humedad_gravimetrica_15_bar,25.34,%
+retencion_humedad,1,Bosque,1,Bosque_1,1,RN-26-00866,BOSQUE 1 - R1,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,humedad_gravimetrica_15_bar,29.86,%
+retencion_humedad,1,Bosque,1,Bosque_1,2,RN-26-00867,BOSQUE 1 - R2,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,humedad_gravimetrica_15_bar,29.07,%
+retencion_humedad,1,Bosque,1,Bosque_1,3,RN-26-00868,BOSQUE 1 - R3,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,humedad_gravimetrica_15_bar,31.21,%
+retencion_humedad,2,Pina,2,Pina_2,1,RN-26-00869,Pina 2 ALONSO CHACON R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,25.06,%
+retencion_humedad,2,Pina,2,Pina_2,2,RN-26-00870,Pina 2 ALONSO CHACON R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,25.14,%
+retencion_humedad,2,Pina,2,Pina_2,3,RN-26-00871,Pina 2 ALONSO CHACON R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,25.83,%
+retencion_humedad,3,Pina,3,Pina_3,1,RN-26-00872,Pina 3 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,28.77,%
+retencion_humedad,3,Pina,3,Pina_3,2,RN-26-00873,Pina 3 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,28.25,%
+retencion_humedad,3,Pina,3,Pina_3,3,RN-26-00874,Pina 3 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,28.57,%
+retencion_humedad,4,Pina,4,Pina_4,1,RN-26-00875,Pina 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,24.65,%
+retencion_humedad,4,Pina,4,Pina_4,2,RN-26-00876,Pina 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,24.62,%
+retencion_humedad,4,Pina,4,Pina_4,3,RN-26-00877,Pina 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,25.87,%
+retencion_humedad,5,Pina,5,Pina_5,1,RN-26-00878,Pina 5 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,25.24,%
+retencion_humedad,5,Pina,5,Pina_5,2,RN-26-00879,Pina 5 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,25.79,%
+retencion_humedad,5,Pina,5,Pina_5,3,RN-26-00880,Pina 5 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,25.28,%
+retencion_humedad,6,Pina,6,Pina_6,1,RN-26-00881,Pina 6 MARVIN ZAMORA R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,26.3,%
+retencion_humedad,6,Pina,6,Pina_6,2,RN-26-00882,Pina 6 MARVIN ZAMORA R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,26.57,%
+retencion_humedad,6,Pina,6,Pina_6,3,RN-26-00883,Pina 6 MARVIN ZAMORA R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,25.82,%
+retencion_humedad,7,Pina,7,Pina_7,1,RN-26-00884,Pina 7 ADRIAN RODRIGRUEZ R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,28.48,%
+retencion_humedad,7,Pina,7,Pina_7,2,RN-26-00885,Pina 7 ADRIAN RODRIGRUEZ R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,28.35,%
+retencion_humedad,7,Pina,7,Pina_7,3,RN-26-00886,Pina 7 ADRIAN RODRIGRUEZ R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,28.52,%
+retencion_humedad,8,Pina,8,Pina_8,1,RN-26-00887,Pina 8 SENEN MURILLO R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,28.09,%
+retencion_humedad,8,Pina,8,Pina_8,2,RN-26-00888,Pina 8 SENEN MURILLO R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,28.62,%
+retencion_humedad,8,Pina,8,Pina_8,3,RN-26-00889,Pina 8 SENEN MURILLO R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,29.69,%
+retencion_humedad,3,Bosque,2,Bosque_2,1,RN-26-00890,BOSQUE 2 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,32.34,%
+retencion_humedad,3,Bosque,2,Bosque_2,2,RN-26-00891,BOSQUE 2 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,32.41,%
+retencion_humedad,3,Bosque,2,Bosque_2,3,RN-26-00892,BOSQUE 2 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,32.6,%
+retencion_humedad,4,Bosque,3,Bosque_3,1,RN-26-00893,BOSQUE 3 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,27.72,%
+retencion_humedad,4,Bosque,3,Bosque_3,2,RN-26-00894,BOSQUE 3 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,27.97,%
+retencion_humedad,4,Bosque,3,Bosque_3,3,RN-26-00895,BOSQUE 3 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,27.86,%
+retencion_humedad,5,Bosque,4,Bosque_4,1,RN-26-00896,BOSQUE 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,29.47,%
+retencion_humedad,5,Bosque,4,Bosque_4,2,RN-26-00897,BOSQUE 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,29.56,%
+retencion_humedad,5,Bosque,4,Bosque_4,3,RN-26-00898,BOSQUE 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,humedad_gravimetrica_15_bar,29.06,%
+retencion_humedad,1,Pina,1,Pina_1,1,RN-26-00863,Pina 1 VICTOR TREJOS R1,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,agua_util,13.75,%
+retencion_humedad,1,Pina,1,Pina_1,2,RN-26-00864,Pina 1 VICTOR TREJOS R2,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,agua_util,16.619999999999997,%
+retencion_humedad,1,Pina,1,Pina_1,3,RN-26-00865,Pina 1 VICTOR TREJOS R3,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,agua_util,15.819999999999997,%
+retencion_humedad,1,Bosque,1,Bosque_1,1,RN-26-00866,BOSQUE 1 - R1,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,agua_util,32.51,%
+retencion_humedad,1,Bosque,1,Bosque_1,2,RN-26-00867,BOSQUE 1 - R2,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,agua_util,31.3,%
+retencion_humedad,1,Bosque,1,Bosque_1,3,RN-26-00868,BOSQUE 1 - R3,99443 PROYECTO VI-813-C6469 CIPROC RN863-868,agua_util,28.33,%
+retencion_humedad,2,Pina,2,Pina_2,1,RN-26-00869,Pina 2 ALONSO CHACON R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,15.360000000000005,%
+retencion_humedad,2,Pina,2,Pina_2,2,RN-26-00870,Pina 2 ALONSO CHACON R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,14.990000000000002,%
+retencion_humedad,2,Pina,2,Pina_2,3,RN-26-00871,Pina 2 ALONSO CHACON R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,18.96,%
+retencion_humedad,3,Pina,3,Pina_3,1,RN-26-00872,Pina 3 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,12.41,%
+retencion_humedad,3,Pina,3,Pina_3,2,RN-26-00873,Pina 3 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,12.61,%
+retencion_humedad,3,Pina,3,Pina_3,3,RN-26-00874,Pina 3 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,11.770000000000003,%
+retencion_humedad,4,Pina,4,Pina_4,1,RN-26-00875,Pina 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,12.21,%
+retencion_humedad,4,Pina,4,Pina_4,2,RN-26-00876,Pina 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,22.67,%
+retencion_humedad,4,Pina,4,Pina_4,3,RN-26-00877,Pina 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,8.879999999999999,%
+retencion_humedad,5,Pina,5,Pina_5,1,RN-26-00878,Pina 5 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,23.66,%
+retencion_humedad,5,Pina,5,Pina_5,2,RN-26-00879,Pina 5 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,19.730000000000004,%
+retencion_humedad,5,Pina,5,Pina_5,3,RN-26-00880,Pina 5 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,21.49,%
+retencion_humedad,6,Pina,6,Pina_6,1,RN-26-00881,Pina 6 MARVIN ZAMORA R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,14.830000000000002,%
+retencion_humedad,6,Pina,6,Pina_6,2,RN-26-00882,Pina 6 MARVIN ZAMORA R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,9.079999999999998,%
+retencion_humedad,6,Pina,6,Pina_6,3,RN-26-00883,Pina 6 MARVIN ZAMORA R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,12.259999999999998,%
+retencion_humedad,7,Pina,7,Pina_7,1,RN-26-00884,Pina 7 ADRIAN RODRIGRUEZ R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,11.91,%
+retencion_humedad,7,Pina,7,Pina_7,2,RN-26-00885,Pina 7 ADRIAN RODRIGRUEZ R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,17.86,%
+retencion_humedad,7,Pina,7,Pina_7,3,RN-26-00886,Pina 7 ADRIAN RODRIGRUEZ R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,13.529999999999998,%
+retencion_humedad,8,Pina,8,Pina_8,1,RN-26-00887,Pina 8 SENEN MURILLO R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,15.8,%
+retencion_humedad,8,Pina,8,Pina_8,2,RN-26-00888,Pina 8 SENEN MURILLO R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,15.400000000000002,%
+retencion_humedad,8,Pina,8,Pina_8,3,RN-26-00889,Pina 8 SENEN MURILLO R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,26.21,%
+retencion_humedad,3,Bosque,2,Bosque_2,1,RN-26-00890,BOSQUE 2 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,28.709999999999997,%
+retencion_humedad,3,Bosque,2,Bosque_2,2,RN-26-00891,BOSQUE 2 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,47.22,%
+retencion_humedad,3,Bosque,2,Bosque_2,3,RN-26-00892,BOSQUE 2 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,34.26,%
+retencion_humedad,4,Bosque,3,Bosque_3,1,RN-26-00893,BOSQUE 3 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,11.840000000000003,%
+retencion_humedad,4,Bosque,3,Bosque_3,2,RN-26-00894,BOSQUE 3 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,25.090000000000003,%
+retencion_humedad,4,Bosque,3,Bosque_3,3,RN-26-00895,BOSQUE 3 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,34.79,%
+retencion_humedad,5,Bosque,4,Bosque_4,1,RN-26-00896,BOSQUE 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,55.86,%
+retencion_humedad,5,Bosque,4,Bosque_4,2,RN-26-00897,BOSQUE 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,53.120000000000005,%
+retencion_humedad,5,Bosque,4,Bosque_4,3,RN-26-00898,BOSQUE 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,agua_util,40.27,%
+textural,1,Pina,1,Pina_1,1,RN-26-00441,Pina 1-1,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,arena,15.0,%
+textural,1,Pina,1,Pina_1,2,RN-26-00442,Pina 1-2,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,arena,15.0,%
+textural,1,Pina,1,Pina_1,3,RN-26-00443,Pina 1-3,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,arena,14.0,%
+textural,1,Bosque,1,Bosque_1,1,RN-26-00444,BOSQUE 1-1,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,arena,10.0,%
+textural,1,Bosque,1,Bosque_1,2,RN-26-00445,BOSQUE 1-2,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,arena,9.0,%
+textural,1,Bosque,1,Bosque_1,3,RN-26-00446,BOSQUE 1-3,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,arena,12.0,%
+textural,2,Pina,2,Pina_2,1,RN-26-00869,Pina 2 ALONSO CHACON R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,9.0,%
+textural,2,Pina,2,Pina_2,2,RN-26-00870,Pina 2 ALONSO CHACON R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,12.0,%
+textural,2,Pina,2,Pina_2,3,RN-26-00871,Pina 2 ALONSO CHACON R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,12.0,%
+textural,3,Pina,3,Pina_3,1,RN-26-00872,Pina 3 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,7.0,%
+textural,3,Pina,3,Pina_3,2,RN-26-00873,Pina 3 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,7.0,%
+textural,3,Pina,3,Pina_3,3,RN-26-00874,Pina 3 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,7.0,%
+textural,4,Pina,4,Pina_4,1,RN-26-00875,Pina 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,9.0,%
+textural,4,Pina,4,Pina_4,2,RN-26-00876,Pina 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,12.0,%
+textural,4,Pina,4,Pina_4,3,RN-26-00877,Pina 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,12.0,%
+textural,5,Pina,5,Pina_5,1,RN-26-00878,Pina 5 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,18.0,%
+textural,5,Pina,5,Pina_5,2,RN-26-00879,Pina 5 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,17.0,%
+textural,5,Pina,5,Pina_5,3,RN-26-00880,Pina 5 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,18.0,%
+textural,6,Pina,6,Pina_6,1,RN-26-00881,Pina 6 MARVIN ZAMORA R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,12.0,%
+textural,6,Pina,6,Pina_6,2,RN-26-00882,Pina 6 MARVIN ZAMORA R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,14.0,%
+textural,6,Pina,6,Pina_6,3,RN-26-00883,Pina 6 MARVIN ZAMORA R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,12.0,%
+textural,7,Pina,7,Pina_7,1,RN-26-00884,Pina 7 ADRIAN RODRIGRUEZ R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,7.0,%
+textural,7,Pina,7,Pina_7,2,RN-26-00885,Pina 7 ADRIAN RODRIGRUEZ R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,9.0,%
+textural,7,Pina,7,Pina_7,3,RN-26-00886,Pina 7 ADRIAN RODRIGRUEZ R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,7.0,%
+textural,8,Pina,8,Pina_8,1,RN-26-00887,Pina 8 SENEN MURILLO R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,13.0,%
+textural,8,Pina,8,Pina_8,2,RN-26-00888,Pina 8 SENEN MURILLO R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,10.0,%
+textural,8,Pina,8,Pina_8,3,RN-26-00889,Pina 8 SENEN MURILLO R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,10.0,%
+textural,3,Bosque,2,Bosque_2,1,RN-26-00890,BOSQUE 2 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,9.0,%
+textural,3,Bosque,2,Bosque_2,2,RN-26-00891,BOSQUE 2 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,10.0,%
+textural,3,Bosque,2,Bosque_2,3,RN-26-00892,BOSQUE 2 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,10.0,%
+textural,4,Bosque,3,Bosque_3,1,RN-26-00893,BOSQUE 3 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,14.0,%
+textural,4,Bosque,3,Bosque_3,2,RN-26-00894,BOSQUE 3 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,15.0,%
+textural,4,Bosque,3,Bosque_3,3,RN-26-00895,BOSQUE 3 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,15.0,%
+textural,5,Bosque,4,Bosque_4,1,RN-26-00896,BOSQUE 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,13.0,%
+textural,5,Bosque,4,Bosque_4,2,RN-26-00897,BOSQUE 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,13.0,%
+textural,5,Bosque,4,Bosque_4,3,RN-26-00898,BOSQUE 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arena,13.0,%
+textural,1,Pina,1,Pina_1,1,RN-26-00441,Pina 1-1,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,limo,29.0,%
+textural,1,Pina,1,Pina_1,2,RN-26-00442,Pina 1-2,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,limo,27.0,%
+textural,1,Pina,1,Pina_1,3,RN-26-00443,Pina 1-3,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,limo,28.0,%
+textural,1,Bosque,1,Bosque_1,1,RN-26-00444,BOSQUE 1-1,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,limo,22.0,%
+textural,1,Bosque,1,Bosque_1,2,RN-26-00445,BOSQUE 1-2,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,limo,23.0,%
+textural,1,Bosque,1,Bosque_1,3,RN-26-00446,BOSQUE 1-3,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,limo,24.0,%
+textural,2,Pina,2,Pina_2,1,RN-26-00869,Pina 2 ALONSO CHACON R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,36.0,%
+textural,2,Pina,2,Pina_2,2,RN-26-00870,Pina 2 ALONSO CHACON R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,36.0,%
+textural,2,Pina,2,Pina_2,3,RN-26-00871,Pina 2 ALONSO CHACON R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,35.0,%
+textural,3,Pina,3,Pina_3,1,RN-26-00872,Pina 3 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,24.0,%
+textural,3,Pina,3,Pina_3,2,RN-26-00873,Pina 3 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,24.0,%
+textural,3,Pina,3,Pina_3,3,RN-26-00874,Pina 3 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,24.0,%
+textural,4,Pina,4,Pina_4,1,RN-26-00875,Pina 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,31.0,%
+textural,4,Pina,4,Pina_4,2,RN-26-00876,Pina 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,27.0,%
+textural,4,Pina,4,Pina_4,3,RN-26-00877,Pina 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,27.0,%
+textural,5,Pina,5,Pina_5,1,RN-26-00878,Pina 5 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,32.0,%
+textural,5,Pina,5,Pina_5,2,RN-26-00879,Pina 5 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,34.0,%
+textural,5,Pina,5,Pina_5,3,RN-26-00880,Pina 5 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,35.0,%
+textural,6,Pina,6,Pina_6,1,RN-26-00881,Pina 6 MARVIN ZAMORA R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,28.0,%
+textural,6,Pina,6,Pina_6,2,RN-26-00882,Pina 6 MARVIN ZAMORA R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,26.0,%
+textural,6,Pina,6,Pina_6,3,RN-26-00883,Pina 6 MARVIN ZAMORA R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,27.0,%
+textural,7,Pina,7,Pina_7,1,RN-26-00884,Pina 7 ADRIAN RODRIGRUEZ R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,25.0,%
+textural,7,Pina,7,Pina_7,2,RN-26-00885,Pina 7 ADRIAN RODRIGRUEZ R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,23.0,%
+textural,7,Pina,7,Pina_7,3,RN-26-00886,Pina 7 ADRIAN RODRIGRUEZ R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,27.0,%
+textural,8,Pina,8,Pina_8,1,RN-26-00887,Pina 8 SENEN MURILLO R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,23.0,%
+textural,8,Pina,8,Pina_8,2,RN-26-00888,Pina 8 SENEN MURILLO R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,25.0,%
+textural,8,Pina,8,Pina_8,3,RN-26-00889,Pina 8 SENEN MURILLO R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,25.0,%
+textural,3,Bosque,2,Bosque_2,1,RN-26-00890,BOSQUE 2 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,28.0,%
+textural,3,Bosque,2,Bosque_2,2,RN-26-00891,BOSQUE 2 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,27.0,%
+textural,3,Bosque,2,Bosque_2,3,RN-26-00892,BOSQUE 2 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,27.0,%
+textural,4,Bosque,3,Bosque_3,1,RN-26-00893,BOSQUE 3 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,32.0,%
+textural,4,Bosque,3,Bosque_3,2,RN-26-00894,BOSQUE 3 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,31.0,%
+textural,4,Bosque,3,Bosque_3,3,RN-26-00895,BOSQUE 3 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,31.0,%
+textural,5,Bosque,4,Bosque_4,1,RN-26-00896,BOSQUE 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,26.0,%
+textural,5,Bosque,4,Bosque_4,2,RN-26-00897,BOSQUE 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,26.0,%
+textural,5,Bosque,4,Bosque_4,3,RN-26-00898,BOSQUE 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,limo,27.0,%
+textural,1,Pina,1,Pina_1,1,RN-26-00441,Pina 1-1,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,arcilla,56.0,%
+textural,1,Pina,1,Pina_1,2,RN-26-00442,Pina 1-2,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,arcilla,58.0,%
+textural,1,Pina,1,Pina_1,3,RN-26-00443,Pina 1-3,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,arcilla,58.0,%
+textural,1,Bosque,1,Bosque_1,1,RN-26-00444,BOSQUE 1-1,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,arcilla,68.0,%
+textural,1,Bosque,1,Bosque_1,2,RN-26-00445,BOSQUE 1-2,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,arcilla,68.0,%
+textural,1,Bosque,1,Bosque_1,3,RN-26-00446,BOSQUE 1-3,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,arcilla,64.0,%
+textural,2,Pina,2,Pina_2,1,RN-26-00869,Pina 2 ALONSO CHACON R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,55.0,%
+textural,2,Pina,2,Pina_2,2,RN-26-00870,Pina 2 ALONSO CHACON R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,52.0,%
+textural,2,Pina,2,Pina_2,3,RN-26-00871,Pina 2 ALONSO CHACON R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,53.0,%
+textural,3,Pina,3,Pina_3,1,RN-26-00872,Pina 3 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,69.0,%
+textural,3,Pina,3,Pina_3,2,RN-26-00873,Pina 3 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,69.0,%
+textural,3,Pina,3,Pina_3,3,RN-26-00874,Pina 3 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,69.0,%
+textural,4,Pina,4,Pina_4,1,RN-26-00875,Pina 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,60.0,%
+textural,4,Pina,4,Pina_4,2,RN-26-00876,Pina 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,61.0,%
+textural,4,Pina,4,Pina_4,3,RN-26-00877,Pina 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,61.0,%
+textural,5,Pina,5,Pina_5,1,RN-26-00878,Pina 5 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,50.0,%
+textural,5,Pina,5,Pina_5,2,RN-26-00879,Pina 5 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,49.0,%
+textural,5,Pina,5,Pina_5,3,RN-26-00880,Pina 5 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,47.0,%
+textural,6,Pina,6,Pina_6,1,RN-26-00881,Pina 6 MARVIN ZAMORA R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,60.0,%
+textural,6,Pina,6,Pina_6,2,RN-26-00882,Pina 6 MARVIN ZAMORA R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,60.0,%
+textural,6,Pina,6,Pina_6,3,RN-26-00883,Pina 6 MARVIN ZAMORA R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,61.0,%
+textural,7,Pina,7,Pina_7,1,RN-26-00884,Pina 7 ADRIAN RODRIGRUEZ R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,68.0,%
+textural,7,Pina,7,Pina_7,2,RN-26-00885,Pina 7 ADRIAN RODRIGRUEZ R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,68.0,%
+textural,7,Pina,7,Pina_7,3,RN-26-00886,Pina 7 ADRIAN RODRIGRUEZ R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,66.0,%
+textural,8,Pina,8,Pina_8,1,RN-26-00887,Pina 8 SENEN MURILLO R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,64.0,%
+textural,8,Pina,8,Pina_8,2,RN-26-00888,Pina 8 SENEN MURILLO R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,65.0,%
+textural,8,Pina,8,Pina_8,3,RN-26-00889,Pina 8 SENEN MURILLO R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,65.0,%
+textural,3,Bosque,2,Bosque_2,1,RN-26-00890,BOSQUE 2 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,63.0,%
+textural,3,Bosque,2,Bosque_2,2,RN-26-00891,BOSQUE 2 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,63.0,%
+textural,3,Bosque,2,Bosque_2,3,RN-26-00892,BOSQUE 2 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,63.0,%
+textural,4,Bosque,3,Bosque_3,1,RN-26-00893,BOSQUE 3 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,54.0,%
+textural,4,Bosque,3,Bosque_3,2,RN-26-00894,BOSQUE 3 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,54.0,%
+textural,4,Bosque,3,Bosque_3,3,RN-26-00895,BOSQUE 3 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,54.0,%
+textural,5,Bosque,4,Bosque_4,1,RN-26-00896,BOSQUE 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,61.0,%
+textural,5,Bosque,4,Bosque_4,2,RN-26-00897,BOSQUE 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,61.0,%
+textural,5,Bosque,4,Bosque_4,3,RN-26-00898,BOSQUE 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,arcilla,60.0,%
+textural,1,Pina,1,Pina_1,1,RN-26-00441,Pina 1-1,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,estabilidad_de_agregados,86.0,%
+textural,1,Pina,1,Pina_1,2,RN-26-00442,Pina 1-2,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,estabilidad_de_agregados,94.0,%
+textural,1,Pina,1,Pina_1,3,RN-26-00443,Pina 1-3,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,estabilidad_de_agregados,90.0,%
+textural,1,Bosque,1,Bosque_1,1,RN-26-00444,BOSQUE 1-1,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,estabilidad_de_agregados,17.0,%
+textural,1,Bosque,1,Bosque_1,2,RN-26-00445,BOSQUE 1-2,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,estabilidad_de_agregados,84.0,%
+textural,1,Bosque,1,Bosque_1,3,RN-26-00446,BOSQUE 1-3,98536 PROYECTO VI-813-C6469 CIPROC RN441-446,estabilidad_de_agregados,83.0,%
+textural,2,Pina,2,Pina_2,1,RN-26-00869,Pina 2 ALONSO CHACON R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,88.0,%
+textural,2,Pina,2,Pina_2,2,RN-26-00870,Pina 2 ALONSO CHACON R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,85.0,%
+textural,2,Pina,2,Pina_2,3,RN-26-00871,Pina 2 ALONSO CHACON R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,88.0,%
+textural,3,Pina,3,Pina_3,1,RN-26-00872,Pina 3 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,92.0,%
+textural,3,Pina,3,Pina_3,2,RN-26-00873,Pina 3 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,89.0,%
+textural,3,Pina,3,Pina_3,3,RN-26-00874,Pina 3 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,87.0,%
+textural,4,Pina,4,Pina_4,1,RN-26-00875,Pina 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,94.0,%
+textural,4,Pina,4,Pina_4,2,RN-26-00876,Pina 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,94.0,%
+textural,4,Pina,4,Pina_4,3,RN-26-00877,Pina 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,94.0,%
+textural,5,Pina,5,Pina_5,1,RN-26-00878,Pina 5 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,98.0,%
+textural,5,Pina,5,Pina_5,2,RN-26-00879,Pina 5 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,98.0,%
+textural,5,Pina,5,Pina_5,3,RN-26-00880,Pina 5 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,98.0,%
+textural,6,Pina,6,Pina_6,1,RN-26-00881,Pina 6 MARVIN ZAMORA R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,96.0,%
+textural,6,Pina,6,Pina_6,2,RN-26-00882,Pina 6 MARVIN ZAMORA R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,96.0,%
+textural,6,Pina,6,Pina_6,3,RN-26-00883,Pina 6 MARVIN ZAMORA R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,95.0,%
+textural,7,Pina,7,Pina_7,1,RN-26-00884,Pina 7 ADRIAN RODRIGRUEZ R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,93.0,%
+textural,7,Pina,7,Pina_7,2,RN-26-00885,Pina 7 ADRIAN RODRIGRUEZ R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,93.0,%
+textural,7,Pina,7,Pina_7,3,RN-26-00886,Pina 7 ADRIAN RODRIGRUEZ R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,89.0,%
+textural,8,Pina,8,Pina_8,1,RN-26-00887,Pina 8 SENEN MURILLO R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,97.0,%
+textural,8,Pina,8,Pina_8,2,RN-26-00888,Pina 8 SENEN MURILLO R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,98.0,%
+textural,8,Pina,8,Pina_8,3,RN-26-00889,Pina 8 SENEN MURILLO R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898 | Pina_Finca8_99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,96.0,%
+textural,3,Bosque,2,Bosque_2,1,RN-26-00890,BOSQUE 2 MISAEL ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,96.0,%
+textural,3,Bosque,2,Bosque_2,2,RN-26-00891,BOSQUE 2 MISAEL ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,88.0,%
+textural,3,Bosque,2,Bosque_2,3,RN-26-00892,BOSQUE 2 MISAEL ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,89.0,%
+textural,4,Bosque,3,Bosque_3,1,RN-26-00893,BOSQUE 3 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,97.0,%
+textural,4,Bosque,3,Bosque_3,2,RN-26-00894,BOSQUE 3 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,98.0,%
+textural,4,Bosque,3,Bosque_3,3,RN-26-00895,BOSQUE 3 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,97.0,%
+textural,5,Bosque,4,Bosque_4,1,RN-26-00896,BOSQUE 4 SERGIO ROJAS R1,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,94.0,%
+textural,5,Bosque,4,Bosque_4,2,RN-26-00897,BOSQUE 4 SERGIO ROJAS R2,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,97.0,%
+textural,5,Bosque,4,Bosque_4,3,RN-26-00898,BOSQUE 4 SERGIO ROJAS R3,99444 PROYECTO VI-813-C6469 CIPROC RN869-898,estabilidad_de_agregados,97.0,%
