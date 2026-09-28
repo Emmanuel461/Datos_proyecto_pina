@@ -12,7 +12,7 @@ El análisis comienza con la **caracterización individual de las parcelas de Bo
 - **Dispersión:** las barras son media ± desviación estándar (DE) de submuestras, no intervalos de confianza ni error experimental entre parcelas. `n` cuenta submuestras con dato.
 - **Diferencia:** Δ = media de Piña − media de Bosque; para variables en %, Δ se expresa en puntos porcentuales. El cambio relativo (%) es 100 × Δ / media de Bosque.
 
-## Caracterización por parcela
+## Caracterización por parcela 
 
 Cada caja corresponde a una parcela y cada punto a una de sus submuestras R. La caja abarca Q1–Q3, la línea interior es la mediana y el rombo negro es la media. Los bigotes llegan a las observaciones dentro de 1,5 veces el rango intercuartil desde la caja. Se dibujan **todos los puntos**, incluidos los que quedan más allá de los bigotes. Con tres submuestras, los puntos permiten leer los valores que forman los cuartiles.
 
