@@ -1,0 +1,97 @@
+tratamiento,finca_id,lote,repeticion,parcela,densidad_aparente_g_cm_3,densidad_particulas_g_cm_3,porosidad,productor_finca
+Pina,1,1,1,Pina_1,0.77,2.58,70.15503875968993,Victor Trejos Sanchez
+Pina,1,1,2,Pina_1,0.83,2.56,67.578125,Victor Trejos Sanchez
+Pina,1,1,3,Pina_1,0.76,2.67,71.53558052434457,Victor Trejos Sanchez
+Pina,1,1,4,Pina_1,0.74,2.58,71.31782945736434,Victor Trejos Sanchez
+Pina,1,1,5,Pina_1,0.82,2.55,67.84313725490196,Victor Trejos Sanchez
+Pina,1,1,6,Pina_1,0.75,2.52,70.23809523809523,Victor Trejos Sanchez
+Pina,1,1,7,Pina_1,0.68,2.55,73.33333333333333,Victor Trejos Sanchez
+Pina,1,1,8,Pina_1,0.76,2.62,70.99236641221374,Victor Trejos Sanchez
+Bosque,1,1,1,Bosque_1,0.95,2.69,64.68401486988849,Victor Trejos Sanchez
+Bosque,1,1,2,Bosque_1,0.79,2.74,71.16788321167884,Victor Trejos Sanchez
+Bosque,1,1,3,Bosque_1,0.84,2.69,68.77323420074349,Victor Trejos Sanchez
+Bosque,1,1,4,Bosque_1,0.92,2.73,66.30036630036629,Victor Trejos Sanchez
+Bosque,1,1,5,Bosque_1,0.74,2.7,72.5925925925926,Victor Trejos Sanchez
+Bosque,1,1,6,Bosque_1,0.82,2.73,69.96336996336996,Victor Trejos Sanchez
+Bosque,1,1,7,Bosque_1,0.92,2.65,65.28301886792453,Victor Trejos Sanchez
+Bosque,1,1,8,Bosque_1,0.87,2.73,68.13186813186813,Victor Trejos Sanchez
+Pina,2,2,1,Pina_2,0.97,2.47,60.72874493927126,Alonso Chacon ultima fica
+Pina,2,2,2,Pina_2,0.96,2.51,61.75298804780876,Alonso Chacon ultima fica
+Pina,2,2,3,Pina_2,0.95,2.53,62.450592885375485,Alonso Chacon ultima fica
+Pina,2,2,4,Pina_2,0.96,2.48,61.29032258064516,Alonso Chacon ultima fica
+Pina,2,2,5,Pina_2,0.95,2.51,62.15139442231076,Alonso Chacon ultima fica
+Pina,2,2,6,Pina_2,0.94,2.49,62.24899598393575,Alonso Chacon ultima fica
+Pina,2,2,7,Pina_2,0.87,2.53,65.61264822134387,Alonso Chacon ultima fica
+Pina,2,2,8,Pina_2,0.91,2.54,64.1732283464567,Alonso Chacon ultima fica
+Pina,3,3,1,Pina_3,0.9,2.57,64.98054474708171,Misael Rojas Solis
+Pina,3,3,2,Pina_3,0.88,2.56,65.625,Misael Rojas Solis
+Pina,3,3,3,Pina_3,0.9,2.57,64.98054474708171,Misael Rojas Solis
+Pina,3,3,4,Pina_3,0.84,2.54,66.92913385826772,Misael Rojas Solis
+Pina,3,3,5,Pina_3,0.98,2.59,62.16216216216216,Misael Rojas Solis
+Pina,3,3,6,Pina_3,0.92,2.57,64.2023346303502,Misael Rojas Solis
+Pina,3,3,7,Pina_3,0.85,2.58,67.05426356589147,Misael Rojas Solis
+Pina,3,3,8,Pina_3,0.86,2.55,66.27450980392156,Misael Rojas Solis
+Pina,4,4,1,Pina_4,0.83,2.6,68.07692307692308,Sergio Rojas Murillo
+Pina,4,4,2,Pina_4,0.91,2.49,63.45381526104418,Sergio Rojas Murillo
+Pina,4,4,3,Pina_4,1.0,2.45,59.183673469387756,Sergio Rojas Murillo
+Pina,4,4,4,Pina_4,1.0,2.47,59.51417004048582,Sergio Rojas Murillo
+Pina,4,4,5,Pina_4,0.86,2.49,65.46184738955823,Sergio Rojas Murillo
+Pina,4,4,6,Pina_4,0.9,2.47,63.56275303643725,Sergio Rojas Murillo
+Pina,4,4,7,Pina_4,0.95,2.49,61.84738955823293,Sergio Rojas Murillo
+Pina,4,4,8,Pina_4,0.96,2.47,61.13360323886641,Sergio Rojas Murillo
+Pina,5,5,1,Pina_5,0.92,2.6,64.61538461538461,Sergio Rojas Murillo
+Pina,5,5,2,Pina_5,0.94,2.61,63.98467432950192,Sergio Rojas Murillo
+Pina,5,5,3,Pina_5,0.85,2.62,67.55725190839695,Sergio Rojas Murillo
+Pina,5,5,4,Pina_5,0.86,2.62,67.17557251908397,Sergio Rojas Murillo
+Pina,5,5,5,Pina_5,0.82,2.56,67.96875,Sergio Rojas Murillo
+Pina,5,5,6,Pina_5,0.84,2.62,67.93893129770993,Sergio Rojas Murillo
+Pina,5,5,7,Pina_5,0.89,2.6,65.76923076923077,Sergio Rojas Murillo
+Pina,5,5,8,Pina_5,0.88,2.62,66.41221374045801,Sergio Rojas Murillo
+Pina,6,6,1,Pina_6,0.96,2.39,59.83263598326361,Marvin Zamora
+Pina,6,6,2,Pina_6,1.1,2.43,54.73251028806585,Marvin Zamora
+Pina,6,6,3,Pina_6,0.9,2.44,63.11475409836065,Marvin Zamora
+Pina,6,6,4,Pina_6,1.0,2.45,59.183673469387756,Marvin Zamora
+Pina,6,6,5,Pina_6,1.08,2.39,54.81171548117154,Marvin Zamora
+Pina,6,6,6,Pina_6,0.9,2.44,63.11475409836065,Marvin Zamora
+Pina,6,6,7,Pina_6,0.89,2.44,63.52459016393443,Marvin Zamora
+Pina,6,6,8,Pina_6,0.9,2.45,63.26530612244898,Marvin Zamora
+Pina,7,7,1,Pina_7,0.92,2.44,62.295081967213115,Adrian Rodriguez Varela
+Pina,7,7,2,Pina_7,1.06,2.49,57.42971887550201,Adrian Rodriguez Varela
+Pina,7,7,3,Pina_7,1.03,2.49,58.63453815261044,Adrian Rodriguez Varela
+Pina,7,7,4,Pina_7,1.02,2.5,59.199999999999996,Adrian Rodriguez Varela
+Pina,7,7,5,Pina_7,0.97,2.45,60.40816326530612,Adrian Rodriguez Varela
+Pina,7,7,6,Pina_7,0.93,2.5,62.8,Adrian Rodriguez Varela
+Pina,7,7,7,Pina_7,1.01,2.49,59.43775100401607,Adrian Rodriguez Varela
+Pina,7,7,8,Pina_7,0.98,2.48,60.483870967741936,Adrian Rodriguez Varela
+Pina,8,8,1,Pina_8,0.83,2.44,65.98360655737704,Senen Murillo chavez
+Pina,8,8,2,Pina_8,0.86,2.54,66.14173228346456,Senen Murillo chavez
+Pina,8,8,3,Pina_8,0.87,2.61,66.66666666666666,Senen Murillo chavez
+Pina,8,8,4,Pina_8,0.86,2.56,66.40625,Senen Murillo chavez
+Pina,8,8,5,Pina_8,0.94,2.49,62.24899598393575,Senen Murillo chavez
+Pina,8,8,6,Pina_8,0.88,2.62,66.41221374045801,Senen Murillo chavez
+Pina,8,8,7,Pina_8,0.91,2.48,63.306451612903224,Senen Murillo chavez
+Pina,8,8,8,Pina_8,0.81,2.59,68.72586872586872,Senen Murillo chavez
+Bosque,5,4,1,Bosque_4,0.68,2.45,72.24489795918367,Sergio Rojas Murillo
+Bosque,5,4,2,Bosque_4,0.76,2.47,69.23076923076923,Sergio Rojas Murillo
+Bosque,5,4,3,Bosque_4,0.83,2.53,67.19367588932806,Sergio Rojas Murillo
+Bosque,5,4,4,Bosque_4,0.62,2.36,73.72881355932203,Sergio Rojas Murillo
+Bosque,5,4,5,Bosque_4,0.8,2.45,67.34693877551021,Sergio Rojas Murillo
+Bosque,5,4,6,Bosque_4,0.66,2.45,73.06122448979592,Sergio Rojas Murillo
+Bosque,5,4,7,Bosque_4,0.79,2.51,68.52589641434263,Sergio Rojas Murillo
+Bosque,5,4,8,Bosque_4,0.71,2.53,71.93675889328064,Sergio Rojas Murillo
+Bosque,4,3,1,Bosque_3,0.79,2.45,67.75510204081633,Sergio Rojas Murillo
+Bosque,4,3,2,Bosque_3,0.74,2.4,69.16666666666667,Sergio Rojas Murillo
+Bosque,4,3,3,Bosque_3,0.91,2.49,63.45381526104418,Sergio Rojas Murillo
+Bosque,4,3,4,Bosque_3,0.82,2.49,67.0682730923695,Sergio Rojas Murillo
+Bosque,4,3,5,Bosque_3,0.95,2.51,62.15139442231076,Sergio Rojas Murillo
+Bosque,4,3,6,Bosque_3,0.77,2.35,67.2340425531915,Sergio Rojas Murillo
+Bosque,4,3,7,Bosque_3,0.87,2.53,65.61264822134387,Sergio Rojas Murillo
+Bosque,4,3,8,Bosque_3,0.85,2.53,66.40316205533597,Sergio Rojas Murillo
+Bosque,3,2,1,Bosque_2,0.56,2.51,77.68924302788844,Misael Rojas Solis
+Bosque,3,2,2,Bosque_2,0.73,2.47,70.44534412955466,Misael Rojas Solis
+Bosque,3,2,3,Bosque_2,0.71,2.55,72.15686274509804,Misael Rojas Solis
+Bosque,3,2,4,Bosque_2,0.73,2.37,69.19831223628692,Misael Rojas Solis
+Bosque,3,2,5,Bosque_2,0.8,2.57,68.8715953307393,Misael Rojas Solis
+Bosque,3,2,6,Bosque_2,0.77,2.48,68.9516129032258,Misael Rojas Solis
+Bosque,3,2,7,Bosque_2,0.8,2.54,68.50393700787401,Misael Rojas Solis
+Bosque,3,2,8,Bosque_2,0.8,2.55,68.62745098039215,Misael Rojas Solis

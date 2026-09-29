@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import math
 import re
 import unicodedata
 from pathlib import Path
@@ -159,7 +160,14 @@ def select_relevant_columns(df: pd.DataFrame, want_columns: list[str]) -> pd.Dat
 
 def build_analysis_table(df: pd.DataFrame, sheet_name: str) -> pd.DataFrame:
     if df.empty:
-        return df.copy()
+        raise ValueError(f'La hoja {sheet_name} no contiene resultados.')
+
+    expected = {normalize_column_name(col) for col in PHYSICAL_SHEETS[sheet_name]}
+    found = [normalize_column_name(col) for col in df.columns]
+    if expected - set(found):
+        raise ValueError(f'Faltan columnas en {sheet_name}: {sorted(expected - set(found))}')
+    if any(found.count(col) != 1 for col in expected):
+        raise ValueError(f'Hay encabezados duplicados en {sheet_name}.')
 
     selected = select_relevant_columns(df, PHYSICAL_SHEETS[sheet_name])
     selected = selected.dropna(how='all').reset_index(drop=True)
@@ -180,7 +188,17 @@ def build_analysis_table(df: pd.DataFrame, sheet_name: str) -> pd.DataFrame:
                 continue
             selected[col] = selected[col].apply(lambda x: normalize_text(x) if pd.notna(x) else None)
         else:
-            selected[col] = selected[col].apply(clean_value)
+            if col == 'clase_textural':
+                selected[col] = selected[col].apply(clean_value)
+                continue
+            def numeric_result(value):
+                if pd.isna(value) or str(value).strip().lower() in {'', 'nan', 'na', 'n/a'}:
+                    return None
+                number = parse_numeric(value)
+                if number is None or not math.isfinite(number):
+                    raise ValueError(f'Resultado numérico inválido en {sheet_name}/{col}: {value!r}')
+                return number
+            selected[col] = selected[col].apply(numeric_result)
 
     return selected
 
@@ -198,6 +216,9 @@ def read_field_design(source: Path) -> pd.DataFrame:
     frame.columns = [normalize_column_name(v) for v in raw.iloc[header]]
     records = []
     for _, row in frame.dropna(subset=['finca']).iterrows():
+        finca = parse_numeric(row['finca'])
+        if finca is None or not math.isfinite(finca) or finca <= 0 or not finca.is_integer():
+            raise ValueError(f'Identificador de finca inválido: {row["finca"]!r}')
         productor_finca = normalize_text(row['productor'])
         for field in ['zona_con_cultivo', 'zona_no_disturbada']:
             if pd.isna(row[field]):
@@ -206,7 +227,7 @@ def read_field_design(source: Path) -> pd.DataFrame:
             if not parsed['tratamiento'] or not parsed['lote']:
                 raise ValueError(f'Parcela no reconocida en la ficha: {row[field]}')
             record = {
-                'finca_id': int(row['finca']),
+                'finca_id': int(finca),
                 'tratamiento': parsed['tratamiento'],
                 'lote': parsed['lote'],
                 'parcela': f"{parsed['tratamiento']}_{parsed['lote']}",
@@ -248,6 +269,11 @@ def export_analysis_ready(project_root: Path) -> dict[str, Path]:
 
     design_source = project_root / 'raw' / 'pina' / 'PIÑA FINCAS PRODUCTORAS .xlsx'
     design = read_field_design(design_source)
+    farm_names = design.loc[design['productor_ficha'].fillna('').ne(''),
+                            ['finca_id', 'productor_ficha']].drop_duplicates()
+    if farm_names.duplicated('finca_id').any():
+        raise ValueError('Hay nombres de productor distintos para la misma finca en la ficha.')
+    producer_by_farm = farm_names.set_index('finca_id')['productor_ficha'].to_dict()
     xls = pd.ExcelFile(source)
     exported = {}
     prepared = {}
@@ -279,10 +305,27 @@ def export_analysis_ready(project_root: Path) -> dict[str, Path]:
         prepared[sheet_name] = cleaned
 
     # Validar todas las tablas antes de sustituir las salidas generadas.
+    dashboard_columns = {
+        'densidad_porosidad': [
+            'densidad_aparente_g_cm_3', 'densidad_particulas_g_cm_3', 'porosidad',
+        ],
+        'textural': ['arena', 'limo', 'arcilla', 'estabilidad_de_agregados'],
+        'retencion_humedad': [
+            'humedad_gravimetrica_0_33_bar', 'humedad_gravimetrica_15_bar', 'agua_util',
+        ],
+    }
+    dashboard_dir = output_dir / 'web'
+    dashboard_dir.mkdir(parents=True, exist_ok=True)
     for sheet_name, cleaned in prepared.items():
         out_path = output_dir / f'{sheet_name}.csv'
         cleaned.to_csv(out_path, index=False)
         exported[sheet_name] = out_path
+        public_columns = ['tratamiento', 'finca_id', 'lote', 'repeticion', 'parcela'] + dashboard_columns[sheet_name]
+        public = cleaned.loc[:, public_columns].copy()
+        public['productor_finca'] = cleaned['finca_id'].map(producer_by_farm).fillna('')
+        public.to_csv(
+            dashboard_dir / out_path.name, index=False, encoding='utf-8'
+        )
     design.to_csv(project_root / 'processed' / 'diseno_muestreo.csv', index=False)
     pd.DataFrame(audit).to_csv(project_root / 'processed' / 'auditoria_preparacion.csv', index=False)
     pd.concat(duplicate_records, ignore_index=True).to_csv(

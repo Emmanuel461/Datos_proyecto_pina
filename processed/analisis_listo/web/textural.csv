@@ -1,0 +1,37 @@
+tratamiento,finca_id,lote,repeticion,parcela,arena,limo,arcilla,estabilidad_de_agregados,productor_finca
+Pina,1,1,1,Pina_1,15.0,29.0,56.0,86.0,Victor Trejos Sanchez
+Pina,1,1,2,Pina_1,15.0,27.0,58.0,94.0,Victor Trejos Sanchez
+Pina,1,1,3,Pina_1,14.0,28.0,58.0,90.0,Victor Trejos Sanchez
+Bosque,1,1,1,Bosque_1,10.0,22.0,68.0,17.0,Victor Trejos Sanchez
+Bosque,1,1,2,Bosque_1,9.0,23.0,68.0,84.0,Victor Trejos Sanchez
+Bosque,1,1,3,Bosque_1,12.0,24.0,64.0,83.0,Victor Trejos Sanchez
+Pina,2,2,1,Pina_2,9.0,36.0,55.0,88.0,Alonso Chacon ultima fica
+Pina,2,2,2,Pina_2,12.0,36.0,52.0,85.0,Alonso Chacon ultima fica
+Pina,2,2,3,Pina_2,12.0,35.0,53.0,88.0,Alonso Chacon ultima fica
+Pina,3,3,1,Pina_3,7.0,24.0,69.0,92.0,Misael Rojas Solis
+Pina,3,3,2,Pina_3,7.0,24.0,69.0,89.0,Misael Rojas Solis
+Pina,3,3,3,Pina_3,7.0,24.0,69.0,87.0,Misael Rojas Solis
+Pina,4,4,1,Pina_4,9.0,31.0,60.0,94.0,Sergio Rojas Murillo
+Pina,4,4,2,Pina_4,12.0,27.0,61.0,94.0,Sergio Rojas Murillo
+Pina,4,4,3,Pina_4,12.0,27.0,61.0,94.0,Sergio Rojas Murillo
+Pina,5,5,1,Pina_5,18.0,32.0,50.0,98.0,Sergio Rojas Murillo
+Pina,5,5,2,Pina_5,17.0,34.0,49.0,98.0,Sergio Rojas Murillo
+Pina,5,5,3,Pina_5,18.0,35.0,47.0,98.0,Sergio Rojas Murillo
+Pina,6,6,1,Pina_6,12.0,28.0,60.0,96.0,Marvin Zamora
+Pina,6,6,2,Pina_6,14.0,26.0,60.0,96.0,Marvin Zamora
+Pina,6,6,3,Pina_6,12.0,27.0,61.0,95.0,Marvin Zamora
+Pina,7,7,1,Pina_7,7.0,25.0,68.0,93.0,Adrian Rodriguez Varela
+Pina,7,7,2,Pina_7,9.0,23.0,68.0,93.0,Adrian Rodriguez Varela
+Pina,7,7,3,Pina_7,7.0,27.0,66.0,89.0,Adrian Rodriguez Varela
+Pina,8,8,1,Pina_8,13.0,23.0,64.0,97.0,Senen Murillo chavez
+Pina,8,8,2,Pina_8,10.0,25.0,65.0,98.0,Senen Murillo chavez
+Pina,8,8,3,Pina_8,10.0,25.0,65.0,96.0,Senen Murillo chavez
+Bosque,3,2,1,Bosque_2,9.0,28.0,63.0,96.0,Misael Rojas Solis
+Bosque,3,2,2,Bosque_2,10.0,27.0,63.0,88.0,Misael Rojas Solis
+Bosque,3,2,3,Bosque_2,10.0,27.0,63.0,89.0,Misael Rojas Solis
+Bosque,4,3,1,Bosque_3,14.0,32.0,54.0,97.0,Sergio Rojas Murillo
+Bosque,4,3,2,Bosque_3,15.0,31.0,54.0,98.0,Sergio Rojas Murillo
+Bosque,4,3,3,Bosque_3,15.0,31.0,54.0,97.0,Sergio Rojas Murillo
+Bosque,5,4,1,Bosque_4,13.0,26.0,61.0,94.0,Sergio Rojas Murillo
+Bosque,5,4,2,Bosque_4,13.0,26.0,61.0,97.0,Sergio Rojas Murillo
+Bosque,5,4,3,Bosque_4,13.0,27.0,60.0,97.0,Sergio Rojas Murillo

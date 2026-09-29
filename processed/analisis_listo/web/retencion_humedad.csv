@@ -1,0 +1,37 @@
+tratamiento,finca_id,lote,repeticion,parcela,humedad_gravimetrica_0_33_bar,humedad_gravimetrica_15_bar,agua_util,productor_finca
+Pina,1,1,1,Pina_1,39.22,25.47,13.75,Victor Trejos Sanchez
+Pina,1,1,2,Pina_1,43.26,26.64,16.619999999999997,Victor Trejos Sanchez
+Pina,1,1,3,Pina_1,41.16,25.34,15.819999999999997,Victor Trejos Sanchez
+Bosque,1,1,1,Bosque_1,62.37,29.86,32.51,Victor Trejos Sanchez
+Bosque,1,1,2,Bosque_1,60.37,29.07,31.299999999999997,Victor Trejos Sanchez
+Bosque,1,1,3,Bosque_1,59.54,31.21,28.33,Victor Trejos Sanchez
+Pina,2,2,1,Pina_2,40.42,25.06,15.360000000000003,Alonso Chacon ultima fica
+Pina,2,2,2,Pina_2,40.13,25.14,14.990000000000002,Alonso Chacon ultima fica
+Pina,2,2,3,Pina_2,44.79,25.83,18.96,Alonso Chacon ultima fica
+Pina,3,3,1,Pina_3,41.18,28.77,12.41,Misael Rojas Solis
+Pina,3,3,2,Pina_3,40.86,28.25,12.61,Misael Rojas Solis
+Pina,3,3,3,Pina_3,40.34,28.57,11.770000000000003,Misael Rojas Solis
+Pina,4,4,1,Pina_4,36.86,24.65,12.21,Sergio Rojas Murillo
+Pina,4,4,2,Pina_4,47.29,24.62,22.669999999999998,Sergio Rojas Murillo
+Pina,4,4,3,Pina_4,34.75,25.87,8.879999999999999,Sergio Rojas Murillo
+Pina,5,5,1,Pina_5,48.9,25.24,23.66,Sergio Rojas Murillo
+Pina,5,5,2,Pina_5,45.52,25.79,19.730000000000004,Sergio Rojas Murillo
+Pina,5,5,3,Pina_5,46.77,25.28,21.490000000000002,Sergio Rojas Murillo
+Pina,6,6,1,Pina_6,41.13,26.3,14.830000000000002,Marvin Zamora
+Pina,6,6,2,Pina_6,35.65,26.57,9.079999999999998,Marvin Zamora
+Pina,6,6,3,Pina_6,38.08,25.82,12.259999999999998,Marvin Zamora
+Pina,7,7,1,Pina_7,40.39,28.48,11.91,Adrian Rodriguez Varela
+Pina,7,7,2,Pina_7,46.21,28.35,17.86,Adrian Rodriguez Varela
+Pina,7,7,3,Pina_7,42.05,28.52,13.529999999999998,Adrian Rodriguez Varela
+Pina,8,8,1,Pina_8,43.89,28.09,15.8,Senen Murillo chavez
+Pina,8,8,2,Pina_8,44.02,28.62,15.400000000000002,Senen Murillo chavez
+Pina,8,8,3,Pina_8,55.9,29.69,26.209999999999997,Senen Murillo chavez
+Bosque,3,2,1,Bosque_2,61.05,32.34,28.709999999999994,Misael Rojas Solis
+Bosque,3,2,2,Bosque_2,79.63,32.41,47.22,Misael Rojas Solis
+Bosque,3,2,3,Bosque_2,66.86,32.6,34.26,Misael Rojas Solis
+Bosque,4,3,1,Bosque_3,39.56,27.72,11.840000000000003,Sergio Rojas Murillo
+Bosque,4,3,2,Bosque_3,53.06,27.97,25.090000000000003,Sergio Rojas Murillo
+Bosque,4,3,3,Bosque_3,62.65,27.86,34.79,Sergio Rojas Murillo
+Bosque,5,4,1,Bosque_4,85.33,29.47,55.86,Sergio Rojas Murillo
+Bosque,5,4,2,Bosque_4,82.68,29.56,53.120000000000005,Sergio Rojas Murillo
+Bosque,5,4,3,Bosque_4,69.33,29.06,40.269999999999996,Sergio Rojas Murillo
