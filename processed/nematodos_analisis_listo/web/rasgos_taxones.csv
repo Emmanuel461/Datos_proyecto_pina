@@ -1,0 +1,36 @@
+taxon,grupo_alimenticio,grupo_resumido,clase_cp,clase_pp,masa_ug
+Aglenchus,Herbivores - epidermal/root hair feeders,Herbívoros,0,2,0.082
+Alaimus,Bacterivores,Bacterívoros,4,0,0.561
+Aphelenchoides,Fungivores,Fungívoros,2,0,0.151
+Aphelenchus,Fungivores,Fungívoros,2,0,0.218
+Aporcelaimellus,Omnivores,Omnívoros,5,0,9.048
+Cephalobus,Bacterivores,Bacterívoros,2,0,0.266
+Chronogaster,Bacterivores,Bacterívoros,3,0,0.335
+Clarkus,Predators,Depredadores,4,0,3.897
+Cribronema,Bacterivores,Bacterívoros,2,0,0.039
+Criconematidae,Herbivores - ectoparasites,Herbívoros,0,3,0.567
+Diphtherophora,Fungivores,Fungívoros,3,0,0.504
+Diplogaster,Bacterivores,Bacterívoros,1,0,1.886
+Discocriconemella,Herbivores - ectoparasites,Herbívoros,0,3,0.338
+Ecphyadophora,Herbivores - epidermal/root hair feeders,Herbívoros,0,2,0.02
+Eucephalobus,Bacterivores,Bacterívoros,2,0,0.236
+Filenchus,Fungivores,Fungívoros,2,0,0.099
+Helicotylenchus,Herbivores - semi-endoparasites,Herbívoros,0,3,0.294
+Ironus,Predators,Depredadores,4,0,4.188
+Meloidogyne,Herbivores - sedentary parasites,Herbívoros,0,3,86.985
+Mesocriconema,Herbivores - ectoparasites,Herbívoros,0,3,0.504
+Mesodorylaimus,Omnivores,Omnívoros,4,0,1.277
+Mesorhabditis,Bacterivores,Bacterívoros,1,0,0.568
+Metateratocephalus,Bacterivores,Bacterívoros,3,0,0.073
+Plectus,Bacterivores,Bacterívoros,2,0,0.858
+Pratylenchus,Herbivores - migratory endoparasites,Herbívoros,0,3,0.144
+Prodorylaimus,Omnivores,Omnívoros,4,0,5.631
+Protorhabditis,Bacterivores,Bacterívoros,1,0,0.264
+Pseudacrobeles,Bacterivores,Bacterívoros,2,0,0.217
+Rhabditis,Bacterivores,Bacterívoros,1,0,7.5
+Rotylenchulus,Herbivores - sedentary parasites,Herbívoros,0,3,1.77
+Stegelletina,Bacterivores,Bacterívoros,2,0,0.073
+Teratocephalus,Bacterivores,Bacterívoros,3,0,0.084
+Trophurus,Herbivores - ectoparasites,Herbívoros,0,3,0.278
+Tylenchus,Herbivores - epidermal/root hair feeders,Herbívoros,0,2,0.36
+Xiphinema,Herbivores - ectoparasites,Herbívoros,0,5,5.395

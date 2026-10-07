@@ -14,6 +14,7 @@ import pandas as pd
 # Parcela = tratamiento × lote; R = submuestra, según el responsable del estudio.
 ROOT = Path(__file__).resolve().parent.parent
 ANALYSIS_DIR = ROOT / 'processed' / 'analisis_listo'
+SUMMARY_DIR = ANALYSIS_DIR / 'resumenes'
 DOCS_DIR = ROOT / 'docs'
 COLORS = {'Pina': '#bf801a', 'Bosque': '#24745b'}
 NAMES = {'Pina': 'Piña', 'Bosque': 'Bosque'}
@@ -606,29 +607,29 @@ def write_report(tables, summary, pairs, checks, docs_dir: Path = DOCS_DIR) -> N
         'represente la estructura de fincas, parcelas y submuestras.',
         '## Archivos y reproducción',
         '- [Diseño de muestreo](../processed/diseno_muestreo.csv).\n'
-        '- [Resumen por parcela e indicador](tablas/resumen_por_parcela.csv): n válido, faltantes, media, '
+        '- [Resumen por parcela e indicador](../processed/analisis_listo/resumenes/resumen_por_parcela.csv): n válido, faltantes, media, '
         'DE, mediana, Q1, Q3, rango intercuartil, mínimo, máximo, amplitud y CV de submuestras; '
         'el CV no es el CV residual de un ANOVA.\n'
         '- [Fichas individuales por parcela](caracterizacion_parcelas.md), con resúmenes y repeticiones.\n'
-        '- [Composición textural por parcela](tablas/composicion_textural_por_parcela.csv).\n'
-        '- [Comparaciones dentro de finca](tablas/comparaciones_pina_bosque.csv).\n'
-        '- [Valores individuales](tablas/valores_por_submuestra.csv), con ID LAB y procedencia.\n'
-        '- [Clases texturales por parcela](tablas/clases_texturales.csv).\n'
-        '- [Controles de calidad](tablas/controles_calidad.csv).\n'
+        '- [Composición textural por parcela](../processed/analisis_listo/resumenes/composicion_textural_por_parcela.csv).\n'
+        '- [Comparaciones dentro de finca](../processed/analisis_listo/resumenes/comparaciones_pina_bosque.csv).\n'
+        '- [Valores individuales](../processed/analisis_listo/resumenes/valores_por_submuestra.csv), con ID LAB y procedencia.\n'
+        '- [Clases texturales por parcela](../processed/analisis_listo/resumenes/clases_texturales.csv).\n'
+        '- [Controles de calidad](../processed/analisis_listo/resumenes/controles_calidad.csv).\n'
         '- [Auditoría de preparación](../processed/auditoria_preparacion.csv) y '
         '[registros de duplicados](../processed/duplicados_consolidados.csv).\n'
         '- Figuras en `docs/figuras/agronomico/`, en PNG y SVG para exportación. '
-        'Las figuras antiguas `*_por_zona.png` no forman parte de este informe.',
-        'Desde la raíz del proyecto, usando el entorno existente:',
-        '```powershell\n.\\.venv\\Scripts\\python.exe src/01_soil_data_pipeline.py\n'
-        '.\\.venv\\Scripts\\python.exe src/03_exploratory_analysis.py\n```',
+        'Las figuras antiguas de `docs/figuras/historico/` no forman parte de este informe.',
+        'Desde la raíz del proyecto, con el entorno de Python activado:',
+        '```powershell\npython src/01_soil_data_pipeline.py\n'
+        'python src/03_exploratory_analysis.py\n```',
     ]
     (docs_dir / 'analisis_exploratorio.md').write_text('\n\n'.join(sections) + '\n', encoding='utf-8')
 
 
 def main() -> None:
     tables = load_tables()
-    figures, outputs = DOCS_DIR / 'figuras' / 'agronomico', DOCS_DIR / 'tablas'
+    figures, outputs = DOCS_DIR / 'figuras' / 'agronomico', SUMMARY_DIR
     figures.mkdir(parents=True, exist_ok=True)
     outputs.mkdir(parents=True, exist_ok=True)
     summary, pairs = build_summaries(tables)
@@ -658,6 +659,7 @@ def main() -> None:
     write_parcel_profiles(tables, summary)
     write_report(tables, summary, pairs, checks)
     print(f'Informe: {DOCS_DIR / "analisis_exploratorio.md"}')
+    print(f'Tablas CSV: {outputs}')
     print(f'{len(summary)} resúmenes de parcela, {len(pairs)} comparaciones y {len(checks)} observaciones de calidad.')
     print(f'Figuras PNG/SVG: {figures}')
 

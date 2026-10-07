@@ -19,4 +19,5 @@
 .farm-reference summary:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
 button:disabled,select:disabled{cursor:wait;opacity:.6}
 button:focus-visible,select:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
-@media(max-width:700px){.modules{grid-template-columns:1fr}.module{min-height:150px}.panel{padding:14px}#chart{height:540px}.cards div{padding:14px}}
+@media(max-width:900px){.modules{grid-template-columns:1fr}.module{min-height:150px}}
+@media(max-width:700px){.panel{padding:14px}#chart{height:540px}.cards div{padding:14px}}

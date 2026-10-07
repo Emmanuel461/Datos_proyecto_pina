@@ -1,0 +1,13 @@
+parcela,tratamiento,lote,finca_id,productor_finca,variable,unidad,resultado_original,valor,operador,limite_reportado,estado
+Bosque_1,Bosque,1,1,Victor Trejos Sanchez,poxc,mg POXC/kg de suelo seco,513,513.0,=,,cuantificado
+Pina_1,Pina,1,1,Victor Trejos Sanchez,poxc,mg POXC/kg de suelo seco,341,341.0,=,,cuantificado
+Pina_2,Pina,2,2,Alonso Chacon ultima fica,poxc,mg POXC/kg de suelo seco,447,447.0,=,,cuantificado
+Pina_3,Pina,3,3,Misael Rojas Solis,poxc,mg POXC/kg de suelo seco,690,690.0,=,,cuantificado
+Bosque_2,Bosque,2,3,Misael Rojas Solis,poxc,mg POXC/kg de suelo seco,490,490.0,=,,cuantificado
+Bosque_3,Bosque,3,4,Sergio Rojas Murillo,poxc,mg POXC/kg de suelo seco,552,552.0,=,,cuantificado
+Pina_4,Pina,4,4,Sergio Rojas Murillo,poxc,mg POXC/kg de suelo seco,229,229.0,=,,cuantificado
+Bosque_4,Bosque,4,5,Sergio Rojas Murillo,poxc,mg POXC/kg de suelo seco,409,409.0,=,,cuantificado
+Pina_5,Pina,5,5,Sergio Rojas Murillo,poxc,mg POXC/kg de suelo seco,331,331.0,=,,cuantificado
+Pina_6,Pina,6,6,Marvin Zamora,poxc,mg POXC/kg de suelo seco,297,297.0,=,,cuantificado
+Pina_7,Pina,7,7,Adrian Rodriguez Varela,poxc,mg POXC/kg de suelo seco,218,218.0,=,,cuantificado
+Pina_8,Pina,8,8,Senen Murillo chavez,poxc,mg POXC/kg de suelo seco,384,384.0,=,,cuantificado

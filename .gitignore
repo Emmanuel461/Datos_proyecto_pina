@@ -1,0 +1,41 @@
+
+# -----------------------------------------------------------------------------
+# 00 general files
+# -----------------------------------------------------------------------------
+
+
+*.pdf
+*.xlsx
+*.docx
+*.csv
+*.jpeg
+*.mp4
+
+# Solo los CSV públicos generados dentro de processed se incluyen en la web.
+!processed/analisis_listo/web/densidad_porosidad.csv
+!processed/analisis_listo/web/retencion_humedad.csv
+!processed/analisis_listo/web/textural.csv
+!processed/quimico_analisis_listo/web/resultados_quimicos.csv
+!processed/nematodos_analisis_listo/web/resultados_nematodos.csv
+!processed/nematodos_analisis_listo/web/rasgos_taxones.csv
+!processed/poxc_analisis_listo/web/resultados_poxc.csv
+
+
+# -----------------------------------------------------------------------------
+# 01. Python: cachés, entornos y notebooks
+# -----------------------------------------------------------------------------
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+ENV/
+conda-env/
+
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

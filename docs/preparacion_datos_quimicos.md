@@ -20,11 +20,12 @@ Para Piña 5, tanto la captura del archivo ordenado como el reporte original (ce
 
 ## Archivos preparados
 
-Ejecutar desde la raíz: `.venv/Scripts/python.exe src/04_prepare_chemical_data.py`.
+Ejecutar desde la raíz, con el entorno de Python activado: `python src/04_prepare_chemical_data.py`. Primero debe ejecutarse `01_soil_data_pipeline.py` para generar `processed/diseno_muestreo.csv`, que vincula las parcelas con las fincas.
 
 - [Resultados con trazabilidad](../processed/quimico_analisis_listo/resultados_quimicos.csv): una fila por muestra y variable, con unidad, resultado original, valor numérico, operador, límite, estado y celda de procedencia.
 - [Resultados no cuantificados](../processed/quimico_analisis_listo/resultados_no_cuantificados.csv): permite revisar censurados y faltantes por separado.
 - [Vista por parcela](../processed/quimico_analisis_listo/quimica_por_parcela.csv): conserva `<1` para lectura en Excel.
+- [CSV público para la web](../processed/quimico_analisis_listo/web/resultados_quimicos.csv): columnas para el módulo químico, con finca y productor según el diseño de muestreo; lo genera el mismo script, sin una etapa de exportación adicional.
 
 Para `<1`, `valor` queda vacío, `operador` es `<`, `limite_reportado` es 1 y `estado` es `censurado`. El vacío de `valor` **no significa que falte la muestra**: siempre debe consultarse `estado`. Para una medición de 1, `valor` es 1 y `operador` es `=`. Un resultado no reconocido detiene la preparación para impedir conversiones silenciosas.
 

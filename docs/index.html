@@ -5,28 +5,33 @@
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script></head>
 <body><main class="shell">
 <header><div class="eyebrow">UCR · EA</div><h1>Explorador comparativo</h1><p>Selecciona el tipo de análisis que quieres explorar.</p></header>
-<section id="home" class="modules"><button class="module" data-module="physical"><span>01</span><strong>Análisis físico</strong><small>Densidad, porosidad, humedad y textura</small></button><button class="module" data-module="chemical"><span>02</span><strong>Análisis químico</strong><small>pH, nutrientes, acidez y otros indicadores</small></button></section>
+<section id="home" class="modules"><button class="module" data-module="physical"><span>01</span><strong>Análisis físico</strong><small>Densidad, porosidad, humedad y textura</small></button><button class="module" data-module="chemical"><span>02</span><strong>Análisis químico</strong><small>pH, nutrientes, acidez y otros indicadores</small></button><button class="module" data-module="nematodes"><span>03</span><strong>Nematodos</strong><small>Abundancia, riqueza, grupos alimenticios e índices NINJA</small></button><button class="module" data-module="poxc"><span>04</span><strong>Carbono lábil (POXC)</strong><small>Un resultado final por parcela</small></button></section>
 <section id="module-view" hidden><button id="back-home" class="back">Inicio</button>
-<p class="coverage-note"><strong>R significa repetición:</strong> R1 es la repetición 1, R2 es la repetición 2, etc. En los análisis físicos, estas repeticiones son submuestras de una parcela dentro de cada análisis. Por ejemplo, R1 de densidad no se empareja con R1 de textura ni con un resultado químico.</p>
-<div id="chemical-note" class="notice" hidden></div>
+<p id="sampling-note" class="coverage-note"></p>
+<div id="analysis-note" class="notice" hidden></div>
 <section id="dashboard" hidden><p id="loading" role="status" hidden>Cargando resultados…</p><div id="load-error" class="notice" role="alert" hidden></div><button id="retry" hidden>Reintentar</button>
-<section class="controls"><label id="dataset-label">Familia de variables<select id="dataset"></select></label><label>Variable<select id="variable"></select></label><label>Agrupar por<select id="group"><option value="tratamiento">Tratamiento</option><option value="finca_id">Finca</option><option value="parcela">Parcela</option></select></label><label>Tratamiento<select id="treatment"><option value="all">Todos</option></select></label><label>Finca<select id="farm"><option value="all">Todas</option></select></label><button id="reset">Restablecer filtros</button></section>
+<section class="controls"><label id="dataset-label">Familia de variables<select id="dataset"></select></label><label id="variable-label">Variable<select id="variable"></select></label><label id="view-label" hidden>Vista<select id="view"></select></label><label>Agrupar por<select id="group"><option value="tratamiento">Tratamiento</option><option value="finca_id">Finca</option><option value="parcela">Parcela</option></select></label><label>Tratamiento<select id="treatment"><option value="all">Todos</option></select></label><label>Finca<select id="farm"><option value="all">Todas</option></select></label><button id="reset">Restablecer filtros</button></section>
 <div id="results" hidden>
 <details class="panel farm-reference">
 <summary>Fincas y productores</summary>
 <p class="coverage-note">Referencia de las fincas presentes en este análisis, según la ficha de campo. Los nombres corresponden al número de finca; no al número de parcela de Bosque o Piña.</p>
 <div class="table-wrap"><table><thead><tr><th>Finca</th><th>Productor registrado en la ficha</th></tr></thead><tbody id="farm-reference-rows"></tbody></table></div>
 </details>
+<details id="nematode-traits" class="panel" hidden>
+<summary>Rasgos de los taxones</summary>
+<p class="coverage-note">Catálogo utilizado por NINJA. Estos rasgos pertenecen al taxón y no cambian entre parcelas.</p>
+<div class="table-wrap"><table><thead><tr><th>Taxón</th><th>Grupo alimenticio</th><th>Grupo resumido</th><th>c-p</th><th>p-p</th><th>Masa (µg)</th></tr></thead><tbody id="nematode-trait-rows"></tbody></table></div>
+</details>
 <section class="cards"><div><span id="n-label">Muestras visibles</span><strong id="n">&#8212;</strong><small id="n-note"></small></div><div><span id="mean-label">Media</span><strong id="mean">&#8212;</strong></div><div><span id="median-label">Mediana</span><strong id="median">&#8212;</strong></div><div><span id="range-label">Rango</span><strong id="range">&#8212;</strong></div></section>
 <section class="panel"><div class="panel-head"><div><h2 id="chart-title">Comparación</h2><p id="chart-subtitle">Distribución de las submuestras</p></div><button id="download">Descargar PNG</button></div><div id="chart"></div></section>
 <section class="panel" id="coverage-panel">
 <h2>Disponibilidad de análisis por parcela</h2>
-<p class="coverage-note">Esta tabla muestra todas las parcelas, independientemente de los filtros. En los análisis físicos se cuenta el número de repeticiones de cada análisis. En química se muestra la cantidad de muestras de laboratorio y de indicadores con resultado. Tener más repeticiones en un análisis que en otro no implica que falten muestras.</p>
+<p class="coverage-note">Esta tabla muestra todas las parcelas, independientemente de los filtros. En los análisis físicos se cuentan repeticiones; en química, POXC y nematodos se resume la muestra o resultado disponible por parcela. Tener cantidades distintas entre análisis no implica que las muestras estén emparejadas.</p>
 <p class="coverage-note">«Sin registros» significa que la parcela no aparece en la tabla de ese análisis. «Sin valor reportado» significa que existe el registro, pero falta el resultado de una variable. «Archivo no disponible» indica que no se pudo leer el archivo; no permite concluir que falten muestras.</p>
 <p id="availability-warning" class="notice" hidden></p>
-<div class="table-wrap"><table><thead><tr><th>Finca</th><th>Parcela</th><th>Densidad y porosidad</th><th>Retención de humedad</th><th>Textura y estabilidad</th><th>Química</th><th>Análisis sin registros o valores faltantes</th></tr></thead><tbody id="coverage-rows"><tr><td colspan="7">Cargando disponibilidad…</td></tr></tbody></table></div>
+<div class="table-wrap"><table><thead><tr><th>Finca</th><th>Parcela</th><th>Densidad y porosidad</th><th>Retención de humedad</th><th>Textura y estabilidad</th><th>Química</th><th>POXC</th><th>Nematodos</th><th>Análisis sin registros o valores faltantes</th></tr></thead><tbody id="coverage-rows"><tr><td colspan="9">Cargando disponibilidad…</td></tr></tbody></table></div>
 </section>
-<section class="panel"><h2>Datos filtrados</h2><div class="table-wrap"><table><thead><tr><th>Tratamiento</th><th>Finca</th><th>Parcela</th><th id="sample-heading">Repetición (R)</th><th id="result-heading">Valor</th></tr></thead><tbody id="rows"></tbody></table></div></section>
+<section class="panel"><div class="panel-head"><div><h2>Datos filtrados</h2><p>La descarga incluye la variable y los filtros seleccionados; cuando corresponde, también la familia.</p></div><button id="download-csv">Exportar CSV</button></div><div class="table-wrap"><table><thead><tr><th>Tratamiento</th><th>Finca</th><th>Parcela</th><th id="sample-heading">Repetición (R)</th><th id="result-heading">Valor</th></tr></thead><tbody id="rows"></tbody></table></div></section>
 <footer></footer></div></section></section><noscript>Activa JavaScript para explorar los datos y los gráficos.</noscript></main><script src="app.js"></script></body></html>
 
 

@@ -282,15 +282,15 @@ Esta etapa es **descriptiva**: caracteriza las parcelas y sus submuestras. La me
 ## Archivos y reproducción
 
 - [Diseño de muestreo](../processed/diseno_muestreo.csv).
-- [Resumen por parcela e indicador](tablas/resumen_por_parcela.csv): n válido, faltantes, media, DE, mediana, Q1, Q3, rango intercuartil, mínimo, máximo, amplitud y CV de submuestras; el CV no es el CV residual de un ANOVA.
+- [Resumen por parcela e indicador](../processed/analisis_listo/resumenes/resumen_por_parcela.csv): n válido, faltantes, media, DE, mediana, Q1, Q3, rango intercuartil, mínimo, máximo, amplitud y CV de submuestras; el CV no es el CV residual de un ANOVA.
 - [Fichas individuales por parcela](caracterizacion_parcelas.md), con resúmenes y repeticiones.
-- [Composición textural por parcela](tablas/composicion_textural_por_parcela.csv).
-- [Comparaciones dentro de finca](tablas/comparaciones_pina_bosque.csv).
-- [Valores individuales](tablas/valores_por_submuestra.csv), con ID LAB y procedencia.
-- [Clases texturales por parcela](tablas/clases_texturales.csv).
-- [Controles de calidad](tablas/controles_calidad.csv).
+- [Composición textural por parcela](../processed/analisis_listo/resumenes/composicion_textural_por_parcela.csv).
+- [Comparaciones dentro de finca](../processed/analisis_listo/resumenes/comparaciones_pina_bosque.csv).
+- [Valores individuales](../processed/analisis_listo/resumenes/valores_por_submuestra.csv), con ID LAB y procedencia.
+- [Clases texturales por parcela](../processed/analisis_listo/resumenes/clases_texturales.csv).
+- [Controles de calidad](../processed/analisis_listo/resumenes/controles_calidad.csv).
 - [Auditoría de preparación](../processed/auditoria_preparacion.csv) y [registros de duplicados](../processed/duplicados_consolidados.csv).
-- Figuras en `docs/figuras/agronomico/`, en PNG y SVG para exportación. Las figuras antiguas `*_por_zona.png` no forman parte de este informe.
+- Figuras en `docs/figuras/agronomico/`, en PNG y SVG para exportación. Las figuras antiguas de `docs/figuras/historico/` no forman parte de este informe.
 
 Desde la raíz del proyecto, usando el entorno existente:
 

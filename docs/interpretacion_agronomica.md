@@ -4,7 +4,7 @@ Lectura de los resultados disponibles al 18 de septiembre de 2026.
 
 Este documento interpreta la caracterización de las **12 parcelas: cuatro de Bosque y ocho de Piña**. Se asume la coherencia metodológica del muestreo, según lo establecido para el estudio. Las repeticiones R son submuestras dentro de cada parcela: ocho para densidad y porosidad y tres para retención de humedad, textura y estabilidad de agregados.
 
-Los valores proceden del [resumen por parcela](tablas/resumen_por_parcela.csv), las [observaciones individuales](tablas/valores_por_submuestra.csv) y las [comparaciones dentro de finca](tablas/comparaciones_pina_bosque.csv). Los gráficos están en el [informe exploratorio](analisis_exploratorio.md) y el detalle de cada parcela en las [fichas individuales](caracterizacion_parcelas.md).
+Los valores proceden del resumen por parcela, las observaciones individuales y las comparaciones dentro de finca, enlazados en la sección «Archivos y reproducción» del [informe exploratorio](analisis_exploratorio.md). Al volver a ejecutar `03_exploratory_analysis.py`, esas tablas se guardan en `processed/analisis_listo/resumenes/`. Los gráficos están en el mismo informe y el detalle de cada parcela en las [fichas individuales](caracterizacion_parcelas.md).
 
 Las expresiones «mayor», «menor» y «más variable» se refieren a estas parcelas y a los indicadores medidos. La interpretación es descriptiva; las diferencias no se presentan como resultados de pruebas de significancia.
 
